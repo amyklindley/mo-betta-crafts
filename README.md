@@ -35,3 +35,8 @@ Drag the title bar to move the overlay. The **–** button collapses it and **×
 The recipes come from the community wiki at https://monstersandmemories.miraheze.org (content under CC BY-SA). Thanks to everyone who edits it.
 Players write the wiki, so some recipes may be missing or wrong. Fix them on the wiki and everyone's copy gets better next time they update.
 Some skills have no recipes on the wiki yet, including Brewing, Fermenting, Pottery, Masonry, Spinning, and Farming.
+
+## License
+
+MIT. Use it, fork it, share it. See LICENSE.
+Recipe data in recipes.json is derived from the Monsters and Memories community wiki (monstersandmemories.miraheze.org) and belongs to its contributors under that wiki's content license.
