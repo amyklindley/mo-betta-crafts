@@ -1,0 +1,10 @@
+# per-player state and runtime output
+crafts_state.json
+*.log
+
+# build output
+build/
+dist/
+*.spec
+__pycache__/
+*.zip
