@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-09-23",
+ "fetched": "2026-09-28",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -17523,6 +17523,35 @@
     {
      "qty": 1,
      "name": "Cinder Beetle Boots",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": true,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Disenchanting"
+  },
+  {
+   "id": "Disenchanting|Salvage Targets & Yields|Magic Powder x~4, Mote of Magic x~1|Necrotic Chitin Pauldrons",
+   "skill": "Disenchanting",
+   "section": "Salvage Targets & Yields",
+   "trivial": null,
+   "name": "Magic Powder x~4, Mote of Magic x~1",
+   "makes": null,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Magic Powder x~4"
+    },
+    {
+     "qty": 1,
+     "name": "Mote of Magic x~1"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Necrotic Chitin Pauldrons",
      "tool": false
     }
    ],
