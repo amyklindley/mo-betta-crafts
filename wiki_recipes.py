@@ -19,7 +19,7 @@ from pathlib import Path
 
 API = "https://monstersandmemories.miraheze.org/w/api.php?"
 WIKI = "https://monstersandmemories.miraheze.org/wiki/"
-UA = "MoBettaCrafts/0.1 (personal crafting overlay)"
+UA = "MoBettaCrafts/0.2 (+https://github.com/amyklindley/mo-betta-crafts; contact: amyklindley@gmail.com) community crafting tool"
 HERE = Path(sys.executable).resolve().parent if getattr(sys, "frozen", False) else Path(__file__).resolve().parent
 OUT = HERE / "recipes.json"
 
