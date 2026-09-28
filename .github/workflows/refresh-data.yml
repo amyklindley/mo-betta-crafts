@@ -4,9 +4,7 @@ name: Refresh wiki data
 # Mo Betta Crafts and the Discord bot pull this file from the repo, so wiki edits reach everyone daily.
 
 on:
-  schedule:
-    - cron: "41 9 * * *"   # 09:41 UTC daily
-  workflow_dispatch:
+  workflow_dispatch:   # manual only: the wiki returns 403 to GitHub-hosted runners, so the nightly run happens from a home PC (nightly-refresh.bat)
 
 permissions:
   contents: write
