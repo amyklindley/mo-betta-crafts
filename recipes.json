@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-01",
+ "fetched": "2026-10-02",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -3566,7 +3566,7 @@
    "id": "Cooking|Ingredient Preparation|Cooked Bat Meat|Raw Bat Meat",
    "skill": "Cooking",
    "section": "Ingredient Preparation",
-   "trivial": null,
+   "trivial": 5,
    "name": "Cooked Bat Meat",
    "makes": 1,
    "results": [
@@ -3609,6 +3609,31 @@
    ],
    "station": "Camp Kitchen",
    "notes": "Beetles",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
+  },
+  {
+   "id": "Cooking|Ingredient Preparation|Cooked Deep Beetle Meat|Raw Deep Beetle Meat",
+   "skill": "Cooking",
+   "section": "Ingredient Preparation",
+   "trivial": 5,
+   "name": "Cooked Deep Beetle Meat",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Cooked Deep Beetle Meat"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Raw Deep Beetle Meat",
+     "tool": false
+    }
+   ],
+   "station": "Camp Kitchen",
+   "notes": "Deep Beetles",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
