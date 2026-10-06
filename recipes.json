@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-05",
+ "fetched": "2026-10-06",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -25358,7 +25358,7 @@
     }
    ],
    "station": "Loom",
-   "notes": "Used to craft Fine Cloth armor.",
+   "notes": "Used to craft Fine Cloth armor and Rawhide Armor.",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
