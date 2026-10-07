@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-06",
+ "fetched": "2026-10-07",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -2689,6 +2689,36 @@
     {
      "qty": 4,
      "name": "Bronze Bracket",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 0 – 20|Wood Panel|Wood Board+Crude Wood Finish",
+   "skill": "Carpentry",
+   "section": "Trivial 0 – 20",
+   "trivial": 5,
+   "name": "Wood Panel",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Wood Panel"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 6,
+     "name": "Wood Board",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Crude Wood Finish",
      "tool": false
     }
    ],
