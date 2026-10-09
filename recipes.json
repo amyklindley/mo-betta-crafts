@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-08",
+ "fetched": "2026-10-09",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -787,12 +787,12 @@
    ],
    "ingredients": [
     {
-     "qty": 2,
+     "qty": 1,
      "name": "Crude Fish Oil",
      "tool": false
     },
     {
-     "qty": 6,
+     "qty": 3,
      "name": "Resin",
      "tool": false
     }
@@ -946,7 +946,7 @@
    "id": "Alchemy|Trivial 25 – 50|Minor Serum of Charisma|Lionleaf Powder+Whispering Sage Powder+Makeshift Vial",
    "skill": "Alchemy",
    "section": "Trivial 25 – 50",
-   "trivial": 30,
+   "trivial": 35,
    "name": "Minor Serum of Charisma",
    "makes": 1,
    "results": [
