@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-10",
+ "fetched": "2026-10-11",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -2728,6 +2728,36 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
   },
   {
+   "id": "Carpentry|Trivial 0 – 20|Wood Frame|Wood Board+Bronze Bracket",
+   "skill": "Carpentry",
+   "section": "Trivial 0 – 20",
+   "trivial": 5,
+   "name": "Wood Frame",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Wood Frame"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 4,
+     "name": "Wood Board",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "Bronze Bracket",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
    "id": "Carpentry|Trivial 0 – 20|Wooden Stool|Copper Nails+Wood Board+Wood Panel",
    "skill": "Carpentry",
    "section": "Trivial 0 – 20",
@@ -2899,6 +2929,41 @@
     {
      "qty": 3,
      "name": "Wood Panel",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 45 – 60|Wooden Bank Crate|Copper Nails+Wood Panel+Wood Frame",
+   "skill": "Carpentry",
+   "section": "Trivial 45 – 60",
+   "trivial": null,
+   "name": "Wooden Bank Crate",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Wooden Bank Crate"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 2,
+     "name": "Copper Nails",
+     "tool": false
+    },
+    {
+     "qty": 6,
+     "name": "Wood Panel",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Wood Frame",
      "tool": false
     }
    ],
@@ -15159,6 +15224,36 @@
     {
      "qty": 1,
      "name": "Hide Strap",
+     "tool": false
+    }
+   ],
+   "station": "Table Only",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Fletching"
+  },
+  {
+   "id": "Fletching|Bows & Wooden Shields|[Fine Wood Longbow]]|Fine Wood Board+Bolt of Wool",
+   "skill": "Fletching",
+   "section": "Bows & Wooden Shields",
+   "trivial": null,
+   "name": "[Fine Wood Longbow]]",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "[Fine Wood Longbow]]"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 7,
+     "name": "Fine Wood Board",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Bolt of Wool",
      "tool": false
     }
    ],
