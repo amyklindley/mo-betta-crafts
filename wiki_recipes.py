@@ -82,9 +82,12 @@ def cells(block: str) -> list[str]:
 
 
 def find_col(hdr: list[str], keys: list[str]) -> int | None:
+    """Index of the first header matching one of `keys`. A header like "Result / Item" or
+    "Ingredients / Combination" matches on either half, so renamed columns keep working."""
     for k in keys:
         for i, h in enumerate(hdr):
-            if h == k or (k.endswith("*") and h.startswith(k[:-1])):
+            names = [h] + [part.strip() for part in h.split("/")]
+            if any(n == k or (k.endswith("*") and n.startswith(k[:-1])) for n in names):
                 return i
     return None
 
