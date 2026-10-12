@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-11",
+ "fetched": "2026-10-12",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -5909,6 +5909,64 @@
     {
      "qty": 1,
      "name": "Enchanted Frond",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": true,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Disenchanting"
+  },
+  {
+   "id": "Disenchanting|Trivial 20 – 30|Magic Powder x4–x5, Glimmer of Magic x0–x2|Dented Platinum Coin Pendant",
+   "skill": "Disenchanting",
+   "section": "Trivial 20 – 30",
+   "trivial": 30,
+   "name": "Magic Powder x4–x5, Glimmer of Magic x0–x2",
+   "makes": null,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Magic Powder x4–x5"
+    },
+    {
+     "qty": 1,
+     "name": "Glimmer of Magic x0–x2"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Dented Platinum Coin Pendant",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": true,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Disenchanting"
+  },
+  {
+   "id": "Disenchanting|Trivial 20 – 30|Magic Powder x4–x5, Glimmer of Magic x0–x2|Onyx Outlaw Hood",
+   "skill": "Disenchanting",
+   "section": "Trivial 20 – 30",
+   "trivial": 30,
+   "name": "Magic Powder x4–x5, Glimmer of Magic x0–x2",
+   "makes": null,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Magic Powder x4–x5"
+    },
+    {
+     "qty": 1,
+     "name": "Glimmer of Magic x0–x2"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Onyx Outlaw Hood",
      "tool": false
     }
    ],
