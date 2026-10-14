@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-13",
+ "fetched": "2026-10-14",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -6462,7 +6462,7 @@
    ],
    "ingredients": [
     {
-     "qty": 3,
+     "qty": 8,
      "name": "Bronze Bar",
      "tool": false
     }
