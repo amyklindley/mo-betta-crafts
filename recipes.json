@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-14",
+ "fetched": "2026-10-15",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -5503,7 +5503,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 30 – 50|Copper Kite Shield|Copper Bar+Rawhide Strap",
+   "id": "Blacksmithing|Trivial 30 – 50|Copper Kite Shield|Copper Plate+Rawhide Strap+Rawhide Canvas",
    "skill": "Blacksmithing",
    "section": "Trivial 30 – 50",
    "trivial": 45,
@@ -5517,13 +5517,18 @@
    ],
    "ingredients": [
     {
-     "qty": 9,
-     "name": "Copper Bar",
+     "qty": 2,
+     "name": "Copper Plate",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Rawhide Strap",
      "tool": false
     },
     {
      "qty": 1,
-     "name": "Rawhide Strap",
+     "name": "Rawhide Canvas",
      "tool": false
     }
    ],
