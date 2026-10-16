@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-15",
+ "fetched": "2026-10-16",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -1983,7 +1983,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 101 – 140|Refined Fish Oil|Any Fish+Tempered Vial",
+   "id": "Alchemy|Trivial 101 – 140|Refined Fish Oil|Any T3 Fish+Glass Vial",
    "skill": "Alchemy",
    "section": "Trivial 101 – 140",
    "trivial": 140,
@@ -1998,12 +1998,12 @@
    "ingredients": [
     {
      "qty": 5,
-     "name": "Any Fish",
+     "name": "Any T3 Fish",
      "tool": false
     },
     {
      "qty": 5,
-     "name": "Tempered Vial",
+     "name": "Glass Vial",
      "tool": false
     }
    ],
@@ -12056,7 +12056,7 @@
    "id": "Carpentry|Trivial 45 – 60|Wooden Bank Crate|Copper Nails+Wood Panel+Wood Frame",
    "skill": "Carpentry",
    "section": "Trivial 45 – 60",
-   "trivial": null,
+   "trivial": 45,
    "name": "Wooden Bank Crate",
    "makes": 1,
    "results": [
@@ -24406,16 +24406,16 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Fletching"
   },
   {
-   "id": "Fletching|Bows & Wooden Shields|[Fine Wood Longbow]]|Fine Wood Board+Bolt of Wool",
+   "id": "Fletching|Bows & Wooden Shields|Fine Wood Longbow|Fine Wood Board+Bolt of Wool",
    "skill": "Fletching",
    "section": "Bows & Wooden Shields",
    "trivial": null,
-   "name": "[Fine Wood Longbow]]",
+   "name": "Fine Wood Longbow",
    "makes": 1,
    "results": [
     {
      "qty": 1,
-     "name": "[Fine Wood Longbow]]"
+     "name": "Fine Wood Longbow"
     }
    ],
    "ingredients": [
@@ -30755,7 +30755,7 @@
      "tool": false
     },
     {
-     "qty": 2,
+     "qty": 1,
      "name": "Rough Thread",
      "tool": false
     },
