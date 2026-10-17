@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-16",
+ "fetched": "2026-10-17",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -2116,7 +2116,7 @@
    "id": "Alchemy|Trivial 141 – 220+|Serum of Agility|Stygian Moss Powder+Shadeshroom Powder+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
-   "trivial": null,
+   "trivial": 145,
    "name": "Serum of Agility",
    "makes": 1,
    "results": [
@@ -2151,7 +2151,7 @@
    "id": "Alchemy|Trivial 141 – 220+|Scaleskin Potion|Stygian Moss Powder+Glimmerscale Herring+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
-   "trivial": null,
+   "trivial": 150,
    "name": "Scaleskin Potion",
    "makes": 1,
    "results": [
@@ -2186,7 +2186,7 @@
    "id": "Alchemy|Trivial 141 – 220+|Serum of Charisma|Stygian Moss Powder+Stranglevine Powder+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
-   "trivial": null,
+   "trivial": 155,
    "name": "Serum of Charisma",
    "makes": 1,
    "results": [
@@ -2221,7 +2221,7 @@
    "id": "Alchemy|Trivial 141 – 220+|Serum of Strength|Duneleaf Powder+Gadovine Powder+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
-   "trivial": null,
+   "trivial": 155,
    "name": "Serum of Strength",
    "makes": 1,
    "results": [
@@ -2256,7 +2256,7 @@
    "id": "Alchemy|Trivial 141 – 220+|Potion of Abyssal Breath|Gadovine Powder+Great Bight Shark Fin+Abyssal Watcher+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
-   "trivial": null,
+   "trivial": 160,
    "name": "Potion of Abyssal Breath",
    "makes": 1,
    "results": [
@@ -2296,7 +2296,7 @@
    "id": "Alchemy|Trivial 141 – 220+|Tincture of Sagacity|Etheral Ectoplasm+Magebloom Powder+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
-   "trivial": null,
+   "trivial": 160,
    "name": "Tincture of Sagacity",
    "makes": 1,
    "results": [
@@ -2331,7 +2331,7 @@
    "id": "Alchemy|Trivial 141 – 220+|Serum of Intelligence|Magebloom Powder+Gadovine Powder+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
-   "trivial": null,
+   "trivial": 165,
    "name": "Serum of Intelligence",
    "makes": 1,
    "results": [
@@ -2366,7 +2366,7 @@
    "id": "Alchemy|Trivial 141 – 220+|Serum of Stamina|Stygian Moss Powder+Dragon's Vigil Powder+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
-   "trivial": null,
+   "trivial": 170,
    "name": "Serum of Stamina",
    "makes": 1,
    "results": [
@@ -12798,6 +12798,31 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
   {
+   "id": "Cooking|Ingredient Preparation|Cooked Bat Steak|Raw Bat Steak",
+   "skill": "Cooking",
+   "section": "Ingredient Preparation",
+   "trivial": null,
+   "name": "Cooked Bat Steak",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Cooked Bat Steak"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Raw Bat Steak",
+     "tool": false
+    }
+   ],
+   "station": "Camp Kitchen",
+   "notes": "Observed Cooking skill increase from 10 to 11; exact trivial level unconfirmed.",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
+  },
+  {
    "id": "Cooking|Ingredient Preparation|Cooked Beetle Meat|Raw Beetle Meat",
    "skill": "Cooking",
    "section": "Ingredient Preparation",
@@ -13968,7 +13993,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
   {
-   "id": "Cooking|Trivial 60 – 75|Crocodile Stir Fry|Raw Crocodile Meat+Carrot+Celery+Bell Pepper",
+   "id": "Cooking|Trivial 60 – 75|Crocodile Stir Fry|Raw Crocodile Steak+Carrot+Celery+Bell Pepper",
    "skill": "Cooking",
    "section": "Trivial 60 – 75",
    "trivial": 75,
@@ -13983,7 +14008,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "Raw Crocodile Meat",
+     "name": "Raw Crocodile Steak",
      "tool": false
     },
     {
@@ -35814,7 +35839,7 @@
    "id": "Tailoring|Spider Silk Armor|Spider Silk Cape|Bolt of Cloth+Spider Silk Thread",
    "skill": "Tailoring",
    "section": "Spider Silk Armor",
-   "trivial": 25,
+   "trivial": 30,
    "name": "Spider Silk Cape",
    "makes": 1,
    "results": [
