@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-17",
+ "fetched": "2026-10-18",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -7459,6 +7459,36 @@
     {
      "qty": 2,
      "name": "Hide Strap",
+     "tool": false
+    }
+   ],
+   "station": "Anvil",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
+  },
+  {
+   "id": "Blacksmithing|Trivial 130 – 155|Bronze Horseshoe|Bronze Bar+Copper Nails",
+   "skill": "Blacksmithing",
+   "section": "Trivial 130 – 155",
+   "trivial": null,
+   "name": "Bronze Horseshoe",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Bronze Horseshoe"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 6,
+     "name": "Bronze Bar",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Copper Nails",
      "tool": false
     }
    ],
