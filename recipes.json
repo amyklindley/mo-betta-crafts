@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-18",
+ "fetched": "2026-10-19",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -1413,7 +1413,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 76 – 100|Clear Fish Oil|Tier 2 Fish (Redfin Pike, Thorn Sturgeon, Moontide Salmon)+Annealed Vial",
+   "id": "Alchemy|Trivial 76 – 100|Clear Fish Oil|Tier 2 Fish (Redfin Pike, Thorn Sturgeon, Moontide Salmon)+Makeshift Vial",
    "skill": "Alchemy",
    "section": "Trivial 76 – 100",
    "trivial": 80,
@@ -1433,7 +1433,7 @@
     },
     {
      "qty": 5,
-     "name": "Annealed Vial",
+     "name": "Makeshift Vial",
      "tool": false
     }
    ],
@@ -7267,12 +7267,12 @@
    ],
    "ingredients": [
     {
-     "qty": 1,
+     "qty": 4,
      "name": "Bronze Bar",
      "tool": false
     },
     {
-     "qty": 1,
+     "qty": 2,
      "name": "Hide Strap",
      "tool": false
     }
