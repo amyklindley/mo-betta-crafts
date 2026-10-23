@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-22",
+ "fetched": "2026-10-23",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -2043,10 +2043,10 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Eltindra's Blessing|Nomad's Grace Powder+Wolf Heart+Makeshift Vial",
+   "id": "Alchemy|Trivial 141 – 220+|Eltindra's Blessing|Ethtongue Powder+Wolf Heart+Tempered Vial+Arcane Powder",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
-   "trivial": 220,
+   "trivial": 250,
    "name": "Eltindra's Blessing",
    "makes": 1,
    "results": [
@@ -2057,8 +2057,8 @@
    ],
    "ingredients": [
     {
-     "qty": 7,
-     "name": "Nomad's Grace Powder",
+     "qty": 3,
+     "name": "Ethtongue Powder",
      "tool": false
     },
     {
@@ -2068,7 +2068,12 @@
     },
     {
      "qty": 1,
-     "name": "Makeshift Vial",
+     "name": "Tempered Vial",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Arcane Powder",
      "tool": false
     }
    ],
@@ -5842,7 +5847,7 @@
    ],
    "ingredients": [
     {
-     "qty": 9,
+     "qty": 8,
      "name": "Copper Bar",
      "tool": false
     }
