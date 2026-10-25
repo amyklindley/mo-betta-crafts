@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-23",
+ "fetched": "2026-10-25",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -24761,6 +24761,31 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Jewelcrafting"
   },
   {
+   "id": "Jewelcrafting|Component Recipes|T4 Wire|Steel or Platinum Bar",
+   "skill": "Jewelcrafting",
+   "section": "Component Recipes",
+   "trivial": null,
+   "name": "T4 Wire",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "T4 Wire"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Steel or Platinum Bar",
+     "tool": false
+    }
+   ],
+   "station": "Jewelcrafting Kit",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Jewelcrafting"
+  },
+  {
    "id": "Jewelcrafting|Copper Jewelry|Inlaid Cat's Eye Agate Copper Ring|Copper Bar+Chipped Cat's Eye Agate+Crude Ring Mold",
    "skill": "Jewelcrafting",
    "section": "Copper Jewelry",
@@ -32549,7 +32574,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Mask|Rawhide Scraps+Tattered Rawhide Mask",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Mask",
    "makes": 1,
    "results": [
@@ -32579,7 +32604,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Tunic|Rawhide Scraps+Tattered Rawhide Tunic",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Tunic",
    "makes": 1,
    "results": [
@@ -32609,7 +32634,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Leggings|Rawhide Scraps+Tattered Rawhide Leggings",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Leggings",
    "makes": 1,
    "results": [
@@ -32639,7 +32664,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Shoulderpads|Rawhide Scraps+Tattered Rawhide Shoulderpads",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Shoulderpads",
    "makes": 1,
    "results": [
@@ -32669,7 +32694,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Cap|Rawhide Scraps+Tattered Rawhide Cap",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Cap",
    "makes": 1,
    "results": [
@@ -32699,7 +32724,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Gorget|Rawhide Scraps+Tattered Rawhide Cloak",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Gorget",
    "makes": 1,
    "results": [
@@ -32729,7 +32754,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Gloves|Rawhide Scraps+Tattered Rawhide Gloves",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Gloves",
    "makes": 1,
    "results": [
@@ -32759,7 +32784,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Bracelet|Rawhide Scraps+Tattered Rawhide Bracer",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Bracelet",
    "makes": 1,
    "results": [
@@ -32789,7 +32814,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Belt|Rawhide Scraps+Tattered Rawhide Belt",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Belt",
    "makes": 1,
    "results": [
@@ -32819,7 +32844,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Gorget|Rawhide Scraps+Tattered Rawhide Gorget",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Gorget",
    "makes": 1,
    "results": [
@@ -32849,7 +32874,7 @@
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Boots|Rawhide Scraps+Tattered Rawhide Boots",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
-   "trivial": 10,
+   "trivial": 5,
    "name": "Patched Rawhide Boots",
    "makes": 1,
    "results": [
