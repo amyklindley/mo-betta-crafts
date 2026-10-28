@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-27",
+ "fetched": "2026-10-28",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -31101,7 +31101,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Bracelet|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Bracelet|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 85,
@@ -31121,7 +31121,7 @@
     },
     {
      "qty": 1,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31136,7 +31136,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Gorget|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Gorget|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 85,
@@ -31156,7 +31156,7 @@
     },
     {
      "qty": 1,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31171,7 +31171,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Cloak|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Cloak|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 95,
@@ -31191,7 +31191,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31206,7 +31206,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Gloves|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Gloves|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 95,
@@ -31226,7 +31226,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31241,7 +31241,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Belt|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Belt|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 105,
@@ -31261,7 +31261,7 @@
     },
     {
      "qty": 1,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31276,7 +31276,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Mask|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Mask|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 105,
@@ -31296,7 +31296,7 @@
     },
     {
      "qty": 1,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31311,7 +31311,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Boots|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Boots|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 115,
@@ -31331,7 +31331,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31346,7 +31346,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Cap|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Cap|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 125,
@@ -31366,7 +31366,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31381,7 +31381,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Shoulderpads|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Shoulderpads|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 125,
@@ -31401,7 +31401,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31416,7 +31416,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Leggings|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Leggings|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 135,
@@ -31436,7 +31436,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31451,7 +31451,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Enchanted Hide Cap|Enchanted Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Enchanted Hide Cap|Enchanted Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 140,
@@ -31471,7 +31471,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31486,7 +31486,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Enchanted Hide Leggings|Enchanted Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Enchanted Hide Leggings|Enchanted Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 150,
@@ -31506,7 +31506,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31521,7 +31521,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Hide Tunic|Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Hide Tunic|Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 150,
@@ -31541,7 +31541,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -31556,7 +31556,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Hide Armor|Enchanted Hide Tunic|Enchanted Hide Canvas+Rough Thread+Wool Padding",
+   "id": "Leatherworking|Hide Armor|Enchanted Hide Tunic|Enchanted Hide Canvas+Light Thread+Wool Padding",
    "skill": "Leatherworking",
    "section": "Hide Armor",
    "trivial": 150,
@@ -31576,7 +31576,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -36609,7 +36609,7 @@
    "id": "Tailoring|Rugged Spider Silk Armor|Rugged Spider Silk Cape|Bolt of Wool+Rugged Spider Silk Thread",
    "skill": "Tailoring",
    "section": "Rugged Spider Silk Armor",
-   "trivial": 80,
+   "trivial": 75,
    "name": "Rugged Spider Silk Cape",
    "makes": 1,
    "results": [
