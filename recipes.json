@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-29",
+ "fetched": "2026-10-30",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -24824,7 +24824,7 @@
    "id": "Jewelcrafting|Copper Jewelry|Inlaid Cat's Eye Agate Copper Earring|Copper Bar+Chipped Cat's Eye Agate+Crude Earring Mold",
    "skill": "Jewelcrafting",
    "section": "Copper Jewelry",
-   "trivial": 35,
+   "trivial": 30,
    "name": "Inlaid Cat's Eye Agate Copper Earring",
    "makes": 1,
    "results": [
@@ -24929,7 +24929,7 @@
    "id": "Jewelcrafting|Copper Jewelry|Inlaid Diamond Copper Earring|Copper Bar+Chipped Diamond+Crude Earring Mold",
    "skill": "Jewelcrafting",
    "section": "Copper Jewelry",
-   "trivial": 35,
+   "trivial": 30,
    "name": "Inlaid Diamond Copper Earring",
    "makes": 1,
    "results": [
@@ -25034,7 +25034,7 @@
    "id": "Jewelcrafting|Copper Jewelry|Inlaid Emerald Copper Earring|Copper Bar+Chipped Emerald+Crude Earring Mold",
    "skill": "Jewelcrafting",
    "section": "Copper Jewelry",
-   "trivial": 35,
+   "trivial": 30,
    "name": "Inlaid Emerald Copper Earring",
    "makes": 1,
    "results": [
@@ -25139,7 +25139,7 @@
    "id": "Jewelcrafting|Copper Jewelry|Inlaid Jade Copper Earring|Copper Bar+Chipped Jade+Crude Earring Mold",
    "skill": "Jewelcrafting",
    "section": "Copper Jewelry",
-   "trivial": 35,
+   "trivial": 40,
    "name": "Inlaid Jade Copper Earring",
    "makes": 1,
    "results": [
@@ -25244,7 +25244,7 @@
    "id": "Jewelcrafting|Copper Jewelry|Inlaid Peridot Copper Earring|Copper Bar+Chipped Peridot+Crude Earring Mold",
    "skill": "Jewelcrafting",
    "section": "Copper Jewelry",
-   "trivial": 35,
+   "trivial": 40,
    "name": "Inlaid Peridot Copper Earring",
    "makes": 1,
    "results": [
@@ -25349,7 +25349,7 @@
    "id": "Jewelcrafting|Copper Jewelry|Inlaid Ruby Copper Earring|Copper Bar+Chipped Ruby+Crude Earring Mold",
    "skill": "Jewelcrafting",
    "section": "Copper Jewelry",
-   "trivial": 35,
+   "trivial": 40,
    "name": "Inlaid Ruby Copper Earring",
    "makes": 1,
    "results": [
@@ -25454,7 +25454,7 @@
    "id": "Jewelcrafting|Copper Jewelry|Inlaid Sapphire Copper Earring|Copper Bar+Chipped Sapphire+Crude Earring Mold",
    "skill": "Jewelcrafting",
    "section": "Copper Jewelry",
-   "trivial": 35,
+   "trivial": 40,
    "name": "Inlaid Sapphire Copper Earring",
    "makes": 1,
    "results": [
