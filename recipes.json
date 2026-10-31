@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-30",
+ "fetched": "2026-10-31",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -11867,7 +11867,7 @@
      "tool": false
     },
     {
-     "qty": 2,
+     "qty": 1,
      "name": "Crude Wood Finish",
      "tool": false
     }
@@ -30929,7 +30929,7 @@
    "id": "Leatherworking|Rawhide Armor|Rawhide Leggings|Rawhide Canvas+Rough Thread+Cloth Padding",
    "skill": "Leatherworking",
    "section": "Rawhide Armor",
-   "trivial": 70,
+   "trivial": 65,
    "name": "Rawhide Leggings",
    "makes": 1,
    "results": [
