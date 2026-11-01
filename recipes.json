@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -822,7 +822,7 @@
      "tool": false
     },
     {
-     "qty": 2,
+     "qty": 1,
      "name": "Sylvine Powder",
      "tool": false
     },
@@ -852,12 +852,12 @@
    ],
    "ingredients": [
     {
-     "qty": 3,
+     "qty": 2,
      "name": "Ghost Poppy Powder",
      "tool": false
     },
     {
-     "qty": 1,
+     "qty": 2,
      "name": "Snake Skin",
      "tool": false
     },
@@ -957,7 +957,7 @@
    ],
    "ingredients": [
     {
-     "qty": 2,
+     "qty": 1,
      "name": "Lionleaf Powder",
      "tool": false
     },
@@ -1032,7 +1032,7 @@
      "tool": false
     },
     {
-     "qty": 2,
+     "qty": 1,
      "name": "Nomad's Grace Powder",
      "tool": false
     },
@@ -1338,7 +1338,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 51 – 75|Lesser Serum of Wisdom|Dragon's Vigil Powder+Ironroot Powder+Glass Vial",
+   "id": "Alchemy|Trivial 51 – 75|Lesser Serum of Wisdom|Ironroot Powder+Duneleaf Powder+Glass Vial",
    "skill": "Alchemy",
    "section": "Trivial 51 – 75",
    "trivial": 70,
@@ -1352,13 +1352,13 @@
    ],
    "ingredients": [
     {
-     "qty": 1,
-     "name": "Dragon's Vigil Powder",
+     "qty": 2,
+     "name": "Ironroot Powder",
      "tool": false
     },
     {
-     "qty": 2,
-     "name": "Ironroot Powder",
+     "qty": 1,
+     "name": "Duneleaf Powder",
      "tool": false
     },
     {
@@ -1462,7 +1462,7 @@
      "tool": false
     },
     {
-     "qty": 6,
+     "qty": 3,
      "name": "Resin",
      "tool": false
     }
@@ -1473,7 +1473,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 76 – 100|Lesser Serum of Agility|Stranglevine Powder+Dragon's Vigil Powder+Glass Vial",
+   "id": "Alchemy|Trivial 76 – 100|Lesser Serum of Agility|Stranglevine Powder+Duneleaf Powder+Glass Vial",
    "skill": "Alchemy",
    "section": "Trivial 76 – 100",
    "trivial": 85,
@@ -1493,7 +1493,7 @@
     },
     {
      "qty": 1,
-     "name": "Dragon's Vigil Powder",
+     "name": "Duneleaf Powder",
      "tool": false
     },
     {
@@ -1732,12 +1732,12 @@
    ],
    "ingredients": [
     {
-     "qty": 3,
+     "qty": 2,
      "name": "Duneleaf Powder",
      "tool": false
     },
     {
-     "qty": 4,
+     "qty": 3,
      "name": "Imperfect Sapphire Powder",
      "tool": false
     },
@@ -1793,7 +1793,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 101 – 140|Serum of Dexterity|Duneleaf Powder+Shadeshroom Powder+Annealed Vial",
+   "id": "Alchemy|Trivial 101 – 140|Serum of Dexterity|Dragon's Vigil Powder+Shadeshroom Powder+Annealed Vial",
    "skill": "Alchemy",
    "section": "Trivial 101 – 140",
    "trivial": 135,
@@ -1808,7 +1808,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "Duneleaf Powder",
+     "name": "Dragon's Vigil Powder",
      "tool": false
     },
     {
@@ -1962,7 +1962,7 @@
      "tool": false
     },
     {
-     "qty": 3,
+     "qty": 2,
      "name": "Granite Heart",
      "tool": false
     },
@@ -2032,7 +2032,7 @@
      "tool": false
     },
     {
-     "qty": 6,
+     "qty": 3,
      "name": "Resin",
      "tool": false
     }
@@ -2083,7 +2083,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Potion of the Gravewalker|Nomad's Grace Powder+Zombie Skin+Makeshift Vial",
+   "id": "Alchemy|Trivial 141 – 220+|Potion of the Gravewalker|Last Breath Powder+Zombie Skin+Annealed Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
    "trivial": null,
@@ -2097,18 +2097,18 @@
    ],
    "ingredients": [
     {
-     "qty": 3,
-     "name": "Nomad's Grace Powder",
+     "qty": 2,
+     "name": "Last Breath Powder",
      "tool": false
     },
     {
-     "qty": 1,
+     "qty": 2,
      "name": "Zombie Skin",
      "tool": false
     },
     {
      "qty": 1,
-     "name": "Makeshift Vial",
+     "name": "Annealed Vial",
      "tool": false
     }
    ],
@@ -2118,7 +2118,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Serum of Agility|Stygian Moss Powder+Shadeshroom Powder+Tempered Vial",
+   "id": "Alchemy|Trivial 141 – 220+|Serum of Agility|Stygian Moss Powder+Shadeshroom Powder+Annealed Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
    "trivial": 145,
@@ -2143,7 +2143,7 @@
     },
     {
      "qty": 1,
-     "name": "Tempered Vial",
+     "name": "Annealed Vial",
      "tool": false
     }
    ],
@@ -2188,7 +2188,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Serum of Charisma|Stygian Moss Powder+Stranglevine Powder+Tempered Vial",
+   "id": "Alchemy|Trivial 141 – 220+|Serum of Charisma|Stygian Moss Powder+Stranglevine Powder+Annealed Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
    "trivial": 155,
@@ -2213,7 +2213,7 @@
     },
     {
      "qty": 1,
-     "name": "Tempered Vial",
+     "name": "Annealed Vial",
      "tool": false
     }
    ],
@@ -2223,7 +2223,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Serum of Strength|Duneleaf Powder+Gadovine Powder+Tempered Vial",
+   "id": "Alchemy|Trivial 141 – 220+|Serum of Strength|Duneleaf Powder+Gadolvine Powder+Annealed Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
    "trivial": 155,
@@ -2243,12 +2243,12 @@
     },
     {
      "qty": 1,
-     "name": "Gadovine Powder",
+     "name": "Gadolvine Powder",
      "tool": false
     },
     {
      "qty": 1,
-     "name": "Tempered Vial",
+     "name": "Annealed Vial",
      "tool": false
     }
    ],
@@ -2258,7 +2258,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Potion of Abyssal Breath|Gadovine Powder+Great Bight Shark Fin+Abyssal Watcher+Tempered Vial",
+   "id": "Alchemy|Trivial 141 – 220+|Potion of Abyssal Breath|Gadolvine Powder+Shark Fin+Abyssal Watcher+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
    "trivial": 160,
@@ -2273,12 +2273,12 @@
    "ingredients": [
     {
      "qty": 2,
-     "name": "Gadovine Powder",
+     "name": "Gadolvine Powder",
      "tool": false
     },
     {
      "qty": 2,
-     "name": "Great Bight Shark Fin",
+     "name": "Shark Fin",
      "tool": false
     },
     {
@@ -2298,7 +2298,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Tincture of Sagacity|Etheral Ectoplasm+Magebloom Powder+Tempered Vial",
+   "id": "Alchemy|Trivial 141 – 220+|Tincture of Sagacity|Ethereal Ectoplasm+Magebloom Powder+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
    "trivial": 160,
@@ -2313,7 +2313,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "Etheral Ectoplasm",
+     "name": "Ethereal Ectoplasm",
      "tool": false
     },
     {
@@ -2333,7 +2333,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Serum of Intelligence|Magebloom Powder+Gadovine Powder+Tempered Vial",
+   "id": "Alchemy|Trivial 141 – 220+|Serum of Intelligence|Magebloom Powder+Gadolvine Powder+Annealed Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
    "trivial": 165,
@@ -2353,12 +2353,12 @@
     },
     {
      "qty": 1,
-     "name": "Gadovine Powder",
+     "name": "Gadolvine Powder",
      "tool": false
     },
     {
      "qty": 1,
-     "name": "Tempered Vial",
+     "name": "Annealed Vial",
      "tool": false
     }
    ],
@@ -2368,7 +2368,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Serum of Stamina|Stygian Moss Powder+Dragon's Vigil Powder+Tempered Vial",
+   "id": "Alchemy|Trivial 141 – 220+|Serum of Stamina|Stygian Moss Powder+Dragon's Vigil Powder+Annealed Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
    "trivial": 170,
@@ -2393,7 +2393,7 @@
     },
     {
      "qty": 1,
-     "name": "Tempered Vial",
+     "name": "Annealed Vial",
      "tool": false
     }
    ],
@@ -2438,7 +2438,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Potion of the Pygmy|Shadeshroom Powder+Myconid Spore Powder+Tempered Vial",
+   "id": "Alchemy|Trivial 141 – 220+|Potion of the Pygmy|Shadeshroom Powder+Myconid Spore+Annealed Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
    "trivial": null,
@@ -2458,7 +2458,47 @@
     },
     {
      "qty": 2,
-     "name": "Myconid Spore Powder",
+     "name": "Myconid Spore",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Annealed Vial",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "Shrink your overall size by 20% for 1 hour.",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
+   "id": "Alchemy|Trivial 141 – 220+|Tincture of Wrath|Stygian Moss Powder+Basilisk Tooth+Deep Sea Devourer+Tempered Vial",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": null,
+   "name": "Tincture of Wrath",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Tincture of Wrath"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 2,
+     "name": "Stygian Moss Powder",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Basilisk Tooth",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Deep Sea Devourer",
      "tool": false
     },
     {
@@ -2468,7 +2508,217 @@
     }
    ],
    "station": "Cauldron",
-   "notes": "Shrink your overall size by 20% for 1 hour.",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
+   "id": "Alchemy|Trivial 141 – 220+|Exceptional Wood Finish|Exceptional Fish Oil+Resin",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": null,
+   "name": "Exceptional Wood Finish",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Exceptional Wood Finish"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Exceptional Fish Oil",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Resin",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
+   "id": "Alchemy|Trivial 141 – 220+|Scarlet Red Dye|Ruby Powder+Phoenix Flower Powder+Runed Flask",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": null,
+   "name": "Scarlet Red Dye",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Scarlet Red Dye"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Ruby Powder",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Phoenix Flower Powder",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Runed Flask",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
+   "id": "Alchemy|Trivial 141 – 220+|Stoneskin Tincture|Carrion Beetle Eye+Stygian Moss Powder+Tempered Vial",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": null,
+   "name": "Stoneskin Tincture",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Stoneskin Tincture"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Carrion Beetle Eye",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Stygian Moss Powder",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Tempered Vial",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
+   "id": "Alchemy|Trivial 141 – 220+|Greater Serum of Agility|Witherweed Powder+Phoenix Flower Powder+Tempered Vial",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": null,
+   "name": "Greater Serum of Agility",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Greater Serum of Agility"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 2,
+     "name": "Witherweed Powder",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Phoenix Flower Powder",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Tempered Vial",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
+   "id": "Alchemy|Trivial 141 – 220+|Greater Serum of Charisma|Witherweed Powder+Stygian Moss Powder+Tempered Vial",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": null,
+   "name": "Greater Serum of Charisma",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Greater Serum of Charisma"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 2,
+     "name": "Witherweed Powder",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Stygian Moss Powder",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Tempered Vial",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
+   "id": "Alchemy|Trivial 141 – 220+|Greater Serum of Wisdom|Magebloom Powder+Last Breath Powder+Spotted Angelfish+Tempered Vial",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": null,
+   "name": "Greater Serum of Wisdom",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Greater Serum of Wisdom"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Magebloom Powder",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Last Breath Powder",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Spotted Angelfish",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Tempered Vial",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
@@ -11763,7 +12013,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
   },
   {
-   "id": "Carpentry|Ingredient Preparation|Ironbark Frame|Ironbark Board+Copper Bracket",
+   "id": "Carpentry|Ingredient Preparation|Ironbark Frame|Ironbark Board+Bronze Bracket",
    "skill": "Carpentry",
    "section": "Ingredient Preparation",
    "trivial": null,
@@ -11783,7 +12033,7 @@
     },
     {
      "qty": 4,
-     "name": "Copper Bracket",
+     "name": "Bronze Bracket",
      "tool": false
     }
    ],
@@ -12664,6 +12914,376 @@
     {
      "qty": 2,
      "name": "Fine Wood Panel",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 155 – 180|Ironbark Frame|Ironbark Board+Bronze Bracket",
+   "skill": "Carpentry",
+   "section": "Trivial 155 – 180",
+   "trivial": null,
+   "name": "Ironbark Frame",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Frame"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 4,
+     "name": "Ironbark Board",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "Bronze Bracket",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 155 – 180|Ironbark Panel|Ironbark Board",
+   "skill": "Carpentry",
+   "section": "Trivial 155 – 180",
+   "trivial": null,
+   "name": "Ironbark Panel",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Panel"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 6,
+     "name": "Ironbark Board",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 155 – 180|Ironbark Stool|Copper Nails+Ironbark Board+Ironbark Panel",
+   "skill": "Carpentry",
+   "section": "Trivial 155 – 180",
+   "trivial": null,
+   "name": "Ironbark Stool",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Stool"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 2,
+     "name": "Copper Nails",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Ironbark Board",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Ironbark Panel",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 155 – 180|Ironbark Chair|Copper Nails+Ironbark Board+Ironbark Panel",
+   "skill": "Carpentry",
+   "section": "Trivial 155 – 180",
+   "trivial": null,
+   "name": "Ironbark Chair",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Chair"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 2,
+     "name": "Copper Nails",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "Ironbark Board",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Ironbark Panel",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 155 – 180|Ironbark Storage Crate|Ironbark Panel+Ironbark Frame",
+   "skill": "Carpentry",
+   "section": "Trivial 155 – 180",
+   "trivial": null,
+   "name": "Ironbark Storage Crate",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Storage Crate"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 6,
+     "name": "Ironbark Panel",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Ironbark Frame",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 185 – 210|Ironbark Hand Cart|Ironbark Frame+Ironbark Panel+Ironbark Board",
+   "skill": "Carpentry",
+   "section": "Trivial 185 – 210",
+   "trivial": null,
+   "name": "Ironbark Hand Cart",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Hand Cart"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Ironbark Frame",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Ironbark Panel",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Ironbark Board",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 185 – 210|Ironbark Table|Ironbark Panel+Ironbark Board+Copper Nails",
+   "skill": "Carpentry",
+   "section": "Trivial 185 – 210",
+   "trivial": null,
+   "name": "Ironbark Table",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Table"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 4,
+     "name": "Ironbark Panel",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "Ironbark Board",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Copper Nails",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 185 – 210|Ironbark Bank Crate|Ironbark Panel+Copper Nails+Ironbark Frame",
+   "skill": "Carpentry",
+   "section": "Trivial 185 – 210",
+   "trivial": null,
+   "name": "Ironbark Bank Crate",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Bank Crate"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 6,
+     "name": "Ironbark Panel",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Copper Nails",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Ironbark Frame",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "18 slots",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 185 – 210|Ironbark Bed|Copper Nails+Ironbark Frame+Ironbark Board",
+   "skill": "Carpentry",
+   "section": "Trivial 185 – 210",
+   "trivial": null,
+   "name": "Ironbark Bed",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Bed"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 4,
+     "name": "Copper Nails",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Ironbark Frame",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "Ironbark Board",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 185 – 210|Ironbark Nightstand|Copper Nails+Ironbark Board+Ironbark Panel",
+   "skill": "Carpentry",
+   "section": "Trivial 185 – 210",
+   "trivial": null,
+   "name": "Ironbark Nightstand",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Nightstand"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 2,
+     "name": "Copper Nails",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Ironbark Board",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Ironbark Panel",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Carpentry"
+  },
+  {
+   "id": "Carpentry|Trivial 185 – 210|Ironbark Animal Cart|Copper Nails+Ironbark Frame+Ironbark Panel+Ironbark Board",
+   "skill": "Carpentry",
+   "section": "Trivial 185 – 210",
+   "trivial": null,
+   "name": "Ironbark Animal Cart",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Ironbark Animal Cart"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 2,
+     "name": "Copper Nails",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Ironbark Frame",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "Ironbark Panel",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Ironbark Board",
      "tool": false
     }
    ],
@@ -30929,7 +31549,7 @@
    "id": "Leatherworking|Rawhide Armor|Rawhide Leggings|Rawhide Canvas+Rough Thread+Cloth Padding",
    "skill": "Leatherworking",
    "section": "Rawhide Armor",
-   "trivial": 65,
+   "trivial": 60,
    "name": "Rawhide Leggings",
    "makes": 1,
    "results": [
@@ -33824,7 +34444,7 @@
    "id": "Smelting|Ore Refining & Alloys|Iron Bar|Iron Ore",
    "skill": "Smelting",
    "section": "Ore Refining & Alloys",
-   "trivial": null,
+   "trivial": 75,
    "name": "Iron Bar",
    "makes": 1,
    "results": [
