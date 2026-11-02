@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-01",
+ "fetched": "2026-11-02",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -14288,7 +14288,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
   {
-   "id": "Cooking|Trivial 40 – 55|Garlic Rat Haunch|Raw Rat Fillet+Garlic+Butter",
+   "id": "Cooking|Trivial 40 – 55|Garlic Rat Haunch|Raw Rat Steak+Garlic+Butter",
    "skill": "Cooking",
    "section": "Trivial 40 – 55",
    "trivial": 45,
@@ -14303,7 +14303,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "Raw Rat Fillet",
+     "name": "Raw Rat Steak",
      "tool": false
     },
     {
@@ -14523,7 +14523,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
   {
-   "id": "Cooking|Trivial 60 – 75|Basilisk Skewers|Raw Basilisk Fillet+Bell Pepper+Onion+Crystallized Salt",
+   "id": "Cooking|Trivial 60 – 75|Basilisk Skewers|Raw Basilisk Steak+Bell Pepper+Onion+Crystallized Salt",
    "skill": "Cooking",
    "section": "Trivial 60 – 75",
    "trivial": 65,
@@ -14538,7 +14538,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "Raw Basilisk Fillet",
+     "name": "Raw Basilisk Steak",
      "tool": false
     },
     {
@@ -14603,7 +14603,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
   {
-   "id": "Cooking|Trivial 60 – 75|Spice-Crusted Snake Flatbread|Raw Snake Fillet+Cheese+Basil+Wheat Flour+Crystallized Salt",
+   "id": "Cooking|Trivial 60 – 75|Spice-Crusted Snake Flatbread|Raw Snake Steak+Cheese+Basil+Wheat Flour+Crystallized Salt",
    "skill": "Cooking",
    "section": "Trivial 60 – 75",
    "trivial": 75,
@@ -14618,7 +14618,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "Raw Snake Fillet",
+     "name": "Raw Snake Steak",
      "tool": false
     },
     {
@@ -14688,7 +14688,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
   {
-   "id": "Cooking|Trivial 80 – 100|Wolf Braise|Raw Wolf Fillet+Carrot+Potato+Black Pepper+Cooking Sage",
+   "id": "Cooking|Trivial 80 – 100|Wolf Braise|Raw Wolf Steak+Carrot+Potato+Black Pepper+Cooking Sage",
    "skill": "Cooking",
    "section": "Trivial 80 – 100",
    "trivial": 80,
@@ -14703,7 +14703,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "Raw Wolf Fillet",
+     "name": "Raw Wolf Steak",
      "tool": false
     },
     {
@@ -14733,7 +14733,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
   {
-   "id": "Cooking|Trivial 80 – 100|Jackal Stockpot|Raw Jackal Fillet+Carrot+Onion+Thyme+Stock",
+   "id": "Cooking|Trivial 80 – 100|Jackal Stockpot|Raw Jackal Steak+Carrot+Onion+Thyme+Stock",
    "skill": "Cooking",
    "section": "Trivial 80 – 100",
    "trivial": 80,
@@ -14748,7 +14748,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "Raw Jackal Fillet",
+     "name": "Raw Jackal Steak",
      "tool": false
     },
     {
@@ -14818,7 +14818,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
   {
-   "id": "Cooking|Trivial 80 – 100|Butter-Basted Basilisk|Raw Basilisk Fillet+Butter+Garlic+Cheese+Parsley",
+   "id": "Cooking|Trivial 80 – 100|Butter-Basted Basilisk|Raw Basilisk Steak+Butter+Garlic+Cheese+Parsley",
    "skill": "Cooking",
    "section": "Trivial 80 – 100",
    "trivial": 90,
@@ -14833,7 +14833,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "Raw Basilisk Fillet",
+     "name": "Raw Basilisk Steak",
      "tool": false
     },
     {
@@ -14863,22 +14863,22 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
   {
-   "id": "Cooking|Trivial 80 – 100|Scarab Crisp Cakes|Raw Scarab Fillet+Butter+Wheat Flour+Rice",
+   "id": "Cooking|Trivial 80 – 100|Scarab Crispcakes|Raw Scarab Steak+Butter+Wheat Flour+Rice",
    "skill": "Cooking",
    "section": "Trivial 80 – 100",
    "trivial": 95,
-   "name": "Scarab Crisp Cakes",
+   "name": "Scarab Crispcakes",
    "makes": 1,
    "results": [
     {
      "qty": 1,
-     "name": "Scarab Crisp Cakes"
+     "name": "Scarab Crispcakes"
     }
    ],
    "ingredients": [
     {
      "qty": 1,
-     "name": "Raw Scarab Fillet",
+     "name": "Raw Scarab Steak",
      "tool": false
     },
     {
@@ -14903,7 +14903,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Cooking"
   },
   {
-   "id": "Cooking|Trivial 80 – 100|Thyme-Coated Bear Fillet|Raw Bear Fillet+Thyme+Crystallized Salt+Paprika",
+   "id": "Cooking|Trivial 80 – 100|Thyme-Coated Bear Fillet|Raw Bear Steak+Thyme+Crystallized Salt+Paprika",
    "skill": "Cooking",
    "section": "Trivial 80 – 100",
    "trivial": 95,
@@ -14918,7 +14918,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "Raw Bear Fillet",
+     "name": "Raw Bear Steak",
      "tool": false
     },
     {
