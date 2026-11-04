@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-02",
+ "fetched": "2026-11-04",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -3846,7 +3846,7 @@
    "id": "Blacksmithing|Trivial 20 (Gear Restoration & Upgrades)|Tarnished Bronze Plate Greaves|Bronze Scraps+Corroded Bronze Plate Greaves",
    "skill": "Blacksmithing",
    "section": "Trivial 20 (Gear Restoration & Upgrades)",
-   "trivial": 20,
+   "trivial": null,
    "name": "Tarnished Bronze Plate Greaves",
    "makes": 1,
    "results": [
@@ -30911,7 +30911,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Containers|Hide Saddlebag|Hide Canvas+Rough Thread",
+   "id": "Leatherworking|Containers|Hide Saddlebag|Hide Canvas+Light Thread",
    "skill": "Leatherworking",
    "section": "Containers",
    "trivial": 120,
@@ -30931,7 +30931,7 @@
     },
     {
      "qty": 4,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     }
    ],
@@ -30941,7 +30941,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Containers|Hide Backpack|Hide Canvas+Rough Thread",
+   "id": "Leatherworking|Containers|Hide Backpack|Hide Canvas+Light Thread",
    "skill": "Leatherworking",
    "section": "Containers",
    "trivial": 130,
@@ -30961,7 +30961,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     }
    ],
@@ -30971,7 +30971,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Containers|Leather Saddlebag|Leather Canvas+Light Thread",
+   "id": "Leatherworking|Containers|Leather Saddlebag|Leather Canvas+Heavy Thread",
    "skill": "Leatherworking",
    "section": "Containers",
    "trivial": 195,
@@ -30991,7 +30991,7 @@
     },
     {
      "qty": 4,
-     "name": "Light Thread",
+     "name": "Heavy Thread",
      "tool": false
     }
    ],
@@ -31001,7 +31001,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Containers|Leather Backpack|Leather Canvas+Light Thread",
+   "id": "Leatherworking|Containers|Leather Backpack|Leather Canvas+Heavy Thread",
    "skill": "Leatherworking",
    "section": "Containers",
    "trivial": 205,
@@ -31021,7 +31021,7 @@
     },
     {
      "qty": 3,
-     "name": "Light Thread",
+     "name": "Heavy Thread",
      "tool": false
     }
    ],
@@ -31031,7 +31031,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Containers|Padded Leather Saddlebag|Padded Leather Canvas+Light Thread",
+   "id": "Leatherworking|Containers|Padded Leather Saddlebag|Padded Leather Canvas+Satin Thread",
    "skill": "Leatherworking",
    "section": "Containers",
    "trivial": 265,
@@ -31051,7 +31051,7 @@
     },
     {
      "qty": 4,
-     "name": "Light Thread",
+     "name": "Satin Thread",
      "tool": false
     }
    ],
@@ -31061,7 +31061,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Containers|Padded Leather Backpack|Padded Leather Canvas+Light Thread",
+   "id": "Leatherworking|Containers|Padded Leather Backpack|Padded Leather Canvas+Satin Thread",
    "skill": "Leatherworking",
    "section": "Containers",
    "trivial": 275,
@@ -31081,7 +31081,7 @@
     },
     {
      "qty": 3,
-     "name": "Light Thread",
+     "name": "Satin Thread",
      "tool": false
     }
    ],
