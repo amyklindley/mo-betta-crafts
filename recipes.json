@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-05",
+ "fetched": "2026-11-06",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -31121,27 +31121,27 @@
     }
    ],
    "station": "Leatherworking Station",
-   "notes": "",
+   "notes": "this no longer appears to be in-game",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Mount Equipment|Hide Saddle|Hide Scraps+Hide Strap+Bronze Stirrups",
+   "id": "Leatherworking|Mount Equipment|Light Hide Saddle|Hide Canvas+Hide Strap+Bronze Stirrups",
    "skill": "Leatherworking",
    "section": "Mount Equipment",
    "trivial": 125,
-   "name": "Hide Saddle",
+   "name": "Light Hide Saddle",
    "makes": 1,
    "results": [
     {
      "qty": 1,
-     "name": "Hide Saddle"
+     "name": "Light Hide Saddle"
     }
    ],
    "ingredients": [
     {
-     "qty": 2,
-     "name": "Hide Scraps",
+     "qty": 4,
+     "name": "Hide Canvas",
      "tool": false
     },
     {
@@ -31191,7 +31191,7 @@
     }
    ],
    "station": "Leatherworking Station",
-   "notes": "",
+   "notes": "This recipe is most likely wrong, likely needs 4x canvas instead of 2x scraps, the Hide recipe was similarly incorrect",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
@@ -31226,7 +31226,7 @@
     }
    ],
    "station": "Leatherworking Station",
-   "notes": "2x Saddlebag Slots, 2x Bag Slots",
+   "notes": "2x Saddlebag Slots, 2x Bag Slots This recipe is most likely wrong, likely needs 4x canvas instead of 2x scraps, the Hide recipe was similarly incorrect",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
