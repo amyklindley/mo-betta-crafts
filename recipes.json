@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-06",
+ "fetched": "2026-11-07",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -6433,7 +6433,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 55 – 75|Copper Greatsword|Copper Bar",
+   "id": "Blacksmithing|Trivial 55 – 75|Copper Greatsword|Copper Bar+Cracked Sword Mold",
    "skill": "Blacksmithing",
    "section": "Trivial 55 – 75",
    "trivial": 75,
@@ -6447,8 +6447,13 @@
    ],
    "ingredients": [
     {
-     "qty": 9,
+     "qty": 8,
      "name": "Copper Bar",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Cracked Sword Mold",
      "tool": false
     }
    ],
@@ -6458,7 +6463,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 55 – 75|Copper Maul|Copper Bar",
+   "id": "Blacksmithing|Trivial 55 – 75|Copper Maul|Copper Bar+Cracked Mace Mold",
    "skill": "Blacksmithing",
    "section": "Trivial 55 – 75",
    "trivial": 75,
@@ -6472,8 +6477,13 @@
    ],
    "ingredients": [
     {
-     "qty": 9,
+     "qty": 8,
      "name": "Copper Bar",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Cracked Mace Mold",
      "tool": false
     }
    ],
