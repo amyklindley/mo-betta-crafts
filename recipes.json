@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-07",
+ "fetched": "2026-11-09",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -6768,7 +6768,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 80 – 100|Bronze Dagger|Bronze Bar+Flux",
+   "id": "Blacksmithing|Trivial 80 – 100|Bronze Dagger|Bronze Bar+Flux+Hardened Dagger Mold",
    "skill": "Blacksmithing",
    "section": "Trivial 80 – 100",
    "trivial": 90,
@@ -6789,6 +6789,11 @@
     {
      "qty": 1,
      "name": "Flux",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Hardened Dagger Mold",
      "tool": false
     }
    ],
@@ -6978,7 +6983,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 80 – 100|Bronze Axe|Bronze Bar+Flux",
+   "id": "Blacksmithing|Trivial 80 – 100|Bronze Axe|Bronze Bar+Flux+Hardened Axe Mold",
    "skill": "Blacksmithing",
    "section": "Trivial 80 – 100",
    "trivial": 100,
@@ -6999,6 +7004,11 @@
     {
      "qty": 1,
      "name": "Flux",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Hardened Axe Mold",
      "tool": false
     }
    ],
@@ -7218,7 +7228,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 105 – 125|Bronze Longsword|Bronze Bar+Flux",
+   "id": "Blacksmithing|Trivial 105 – 125|Bronze Longsword|Bronze Bar+Flux+Hardened Sword Mold",
    "skill": "Blacksmithing",
    "section": "Trivial 105 – 125",
    "trivial": 110,
@@ -7239,6 +7249,11 @@
     {
      "qty": 1,
      "name": "Flux",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Hardened Sword Mold",
      "tool": false
     }
    ],
@@ -7583,7 +7598,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 105 – 125|Bronze Mace|Bronze Bar+Flux",
+   "id": "Blacksmithing|Trivial 105 – 125|Bronze Mace|Bronze Bar+Flux+Hardened Mace Mold",
    "skill": "Blacksmithing",
    "section": "Trivial 105 – 125",
    "trivial": 120,
@@ -7604,6 +7619,11 @@
     {
      "qty": 1,
      "name": "Flux",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Hardened Mace Mold",
      "tool": false
     }
    ],
@@ -30861,36 +30881,6 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Containers|Rawhide Saddlebag|Rawhide Canvas+Rough Thread",
-   "skill": "Leatherworking",
-   "section": "Containers",
-   "trivial": 45,
-   "name": "Rawhide Saddlebag",
-   "makes": 1,
-   "results": [
-    {
-     "qty": 1,
-     "name": "Rawhide Saddlebag"
-    }
-   ],
-   "ingredients": [
-    {
-     "qty": 6,
-     "name": "Rawhide Canvas",
-     "tool": false
-    },
-    {
-     "qty": 4,
-     "name": "Rough Thread",
-     "tool": false
-    }
-   ],
-   "station": "Leatherworking Station",
-   "notes": "Not a bank Bag",
-   "salvage": false,
-   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
-  },
-  {
    "id": "Leatherworking|Containers|Rawhide Backpack|Rawhide Canvas+Rough Thread",
    "skill": "Leatherworking",
    "section": "Containers",
@@ -31101,45 +31091,10 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Mount Equipment|Rawhide Saddle|Rawhide Scraps+Rawhide Strap+Copper Stirrups",
-   "skill": "Leatherworking",
-   "section": "Mount Equipment",
-   "trivial": 60,
-   "name": "Rawhide Saddle",
-   "makes": 1,
-   "results": [
-    {
-     "qty": 1,
-     "name": "Rawhide Saddle"
-    }
-   ],
-   "ingredients": [
-    {
-     "qty": 2,
-     "name": "Rawhide Scraps",
-     "tool": false
-    },
-    {
-     "qty": 3,
-     "name": "Rawhide Strap",
-     "tool": false
-    },
-    {
-     "qty": 1,
-     "name": "Copper Stirrups",
-     "tool": false
-    }
-   ],
-   "station": "Leatherworking Station",
-   "notes": "this no longer appears to be in-game",
-   "salvage": false,
-   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
-  },
-  {
    "id": "Leatherworking|Mount Equipment|Light Hide Saddle|Hide Canvas+Hide Strap+Bronze Stirrups",
    "skill": "Leatherworking",
    "section": "Mount Equipment",
-   "trivial": 125,
+   "trivial": 115,
    "name": "Light Hide Saddle",
    "makes": 1,
    "results": [
@@ -31151,6 +31106,41 @@
    "ingredients": [
     {
      "qty": 4,
+     "name": "Hide Canvas",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Hide Strap",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Bronze Stirrups",
+     "tool": false
+    }
+   ],
+   "station": "Leatherworking Station",
+   "notes": "1x Saddlebag Slot, 1x Bag Slot (satchel or smaller)",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
+  },
+  {
+   "id": "Leatherworking|Mount Equipment|Heavy Hide Saddle|Hide Canvas+Hide Strap+Bronze Stirrups",
+   "skill": "Leatherworking",
+   "section": "Mount Equipment",
+   "trivial": 115,
+   "name": "Heavy Hide Saddle",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Heavy Hide Saddle"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 6,
      "name": "Hide Canvas",
      "tool": false
     },
@@ -34236,7 +34226,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Poison Making|Extracts & Raw Components|Noxious Toxin Extract|A Venom Gland",
+   "id": "Poison Making|Extracts & Raw Components|Noxious Toxin Extract|A Venom Gland + one of: Wasp Venom Sac+Immature Snake Venom Sac+Spider Venom Sac",
    "skill": "Poison Making",
    "section": "Extracts & Raw Components",
    "trivial": 25,
@@ -34251,17 +34241,27 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "A Venom Gland",
+     "name": "A Venom Gland + one of: Wasp Venom Sac",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Immature Snake Venom Sac",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Spider Venom Sac",
      "tool": false
     }
    ],
    "station": "",
-   "notes": "Wasp Venom Sac, Immature Snake Venom Sac, Spider Venom Sac",
+   "notes": "Used in Tier I poisons.",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Poison_Making"
   },
   {
-   "id": "Poison Making|Extracts & Raw Components|Baneful Toxin Extract|A Venom Gland",
+   "id": "Poison Making|Extracts & Raw Components|Baneful Toxin Extract|A Venom Gland + Szuurian Viper Venom Sac",
    "skill": "Poison Making",
    "section": "Extracts & Raw Components",
    "trivial": 40,
@@ -34276,17 +34276,17 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "A Venom Gland",
+     "name": "A Venom Gland + Szuurian Viper Venom Sac",
      "tool": false
     }
    ],
    "station": "",
-   "notes": "Szuurian Viper Venom Sac",
+   "notes": "",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Poison_Making"
   },
   {
-   "id": "Poison Making|Extracts & Raw Components|Virulent Toxin Extract|A Venom Gland",
+   "id": "Poison Making|Extracts & Raw Components|Virulent Toxin Extract|A Venom Gland + ??",
    "skill": "Poison Making",
    "section": "Extracts & Raw Components",
    "trivial": null,
@@ -34301,47 +34301,12 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "A Venom Gland",
+     "name": "A Venom Gland + ??",
      "tool": false
     }
    ],
    "station": "",
-   "notes": "??",
-   "salvage": false,
-   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Poison_Making"
-  },
-  {
-   "id": "Poison Making|Extracts & Raw Components|Vial of Snaring Poison I|Noxious Toxin Extract+Soporific Agent+Makeshift Vial",
-   "skill": "Poison Making",
-   "section": "Extracts & Raw Components",
-   "trivial": 25,
-   "name": "Vial of Snaring Poison I",
-   "makes": 1,
-   "results": [
-    {
-     "qty": 1,
-     "name": "Vial of Snaring Poison I"
-    }
-   ],
-   "ingredients": [
-    {
-     "qty": 1,
-     "name": "Noxious Toxin Extract",
-     "tool": false
-    },
-    {
-     "qty": 1,
-     "name": "Soporific Agent",
-     "tool": false
-    },
-    {
-     "qty": 1,
-     "name": "Makeshift Vial",
-     "tool": false
-    }
-   ],
-   "station": "",
-   "notes": "",
+   "notes": "Ingredients unknown.",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Poison_Making"
   },
@@ -36676,7 +36641,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Bracer|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Bracer|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 85,
@@ -36696,7 +36661,7 @@
     },
     {
      "qty": 1,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -36711,7 +36676,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Gorget|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Gorget|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 85,
@@ -36731,7 +36696,7 @@
     },
     {
      "qty": 1,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -36746,7 +36711,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Cape|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Cape|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 95,
@@ -36766,7 +36731,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -36781,7 +36746,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Gloves|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Gloves|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 95,
@@ -36801,7 +36766,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -36816,7 +36781,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Belt|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Belt|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 105,
@@ -36836,7 +36801,7 @@
     },
     {
      "qty": 1,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -36851,7 +36816,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Veil|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Veil|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 105,
@@ -36871,7 +36836,7 @@
     },
     {
      "qty": 1,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -36886,7 +36851,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Boots|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Boots|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 115,
@@ -36906,7 +36871,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -36921,7 +36886,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Cap|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Cap|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 125,
@@ -36941,7 +36906,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -36956,7 +36921,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Mantle|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Mantle|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 125,
@@ -36976,7 +36941,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -36991,7 +36956,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Pants|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Pants|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 135,
@@ -37011,7 +36976,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -37026,7 +36991,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Enchanted Wool Cap|Enchanted Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Enchanted Wool Cap|Enchanted Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 140,
@@ -37046,7 +37011,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -37061,7 +37026,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Enchanted Wool Cape|Enchanted Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Enchanted Wool Cape|Enchanted Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 145,
@@ -37081,7 +37046,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -37096,7 +37061,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Enchanted Wool Pants|Enchanted Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Enchanted Wool Pants|Enchanted Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 145,
@@ -37116,7 +37081,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -37131,7 +37096,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Robe|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Robe|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 145,
@@ -37151,7 +37116,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -37166,7 +37131,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Fine Wool Tunic|Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Fine Wool Tunic|Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 145,
@@ -37186,7 +37151,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
@@ -37201,7 +37166,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Fine Wool Armor|Enchanted Wool Tunic|Enchanted Bolt of Wool+Rough Thread+Bronze Fasteners",
+   "id": "Tailoring|Fine Wool Armor|Enchanted Wool Tunic|Enchanted Bolt of Wool+Light Thread+Bronze Fasteners",
    "skill": "Tailoring",
    "section": "Fine Wool Armor",
    "trivial": 150,
@@ -37221,7 +37186,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     },
     {
