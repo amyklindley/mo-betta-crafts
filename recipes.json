@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-11",
+ "fetched": "2026-11-12",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -7633,7 +7633,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 105 – 125|Bronze Warhammer|Bronze Bar+Flux",
+   "id": "Blacksmithing|Trivial 105 – 125|Bronze Warhammer|Bronze Bar+Flux+Hardened Mace Mold",
    "skill": "Blacksmithing",
    "section": "Trivial 105 – 125",
    "trivial": 120,
@@ -7654,6 +7654,11 @@
     {
      "qty": 1,
      "name": "Flux",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Hardened Mace Mold",
      "tool": false
     }
    ],
@@ -36881,7 +36886,7 @@
     }
    ],
    "station": "Loom",
-   "notes": "2x Wool Scraps",
+   "notes": "1x Wool Scraps",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
