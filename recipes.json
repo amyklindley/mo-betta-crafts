@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-12",
+ "fetched": "2026-11-13",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -748,21 +748,21 @@
    "section": "Trivial 1 – 20",
    "trivial": 15,
    "name": "Crude Fish Oil",
-   "makes": 5,
+   "makes": 3,
    "results": [
     {
-     "qty": 5,
+     "qty": 3,
      "name": "Crude Fish Oil"
     }
    ],
    "ingredients": [
     {
-     "qty": 5,
+     "qty": 3,
      "name": "Tier 1 Fish (e.g. Whitefish, Basa, Grouper)",
      "tool": false
     },
     {
-     "qty": 5,
+     "qty": 3,
      "name": "Makeshift Vial",
      "tool": false
     }
@@ -1418,21 +1418,21 @@
    "section": "Trivial 76 – 100",
    "trivial": 80,
    "name": "Clear Fish Oil",
-   "makes": 5,
+   "makes": 3,
    "results": [
     {
-     "qty": 5,
+     "qty": 3,
      "name": "Clear Fish Oil"
     }
    ],
    "ingredients": [
     {
-     "qty": 5,
+     "qty": 3,
      "name": "Tier 2 Fish (Redfin Pike, Thorn Sturgeon, Moontide Salmon)",
      "tool": false
     },
     {
-     "qty": 5,
+     "qty": 3,
      "name": "Makeshift Vial",
      "tool": false
     }
@@ -1988,21 +1988,21 @@
    "section": "Trivial 101 – 140",
    "trivial": 140,
    "name": "Refined Fish Oil",
-   "makes": 5,
+   "makes": 3,
    "results": [
     {
-     "qty": 5,
+     "qty": 3,
      "name": "Refined Fish Oil"
     }
    ],
    "ingredients": [
     {
-     "qty": 5,
+     "qty": 3,
      "name": "Any T3 Fish",
      "tool": false
     },
     {
-     "qty": 5,
+     "qty": 3,
      "name": "Glass Vial",
      "tool": false
     }
