@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-13",
+ "fetched": "2026-11-14",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -30611,22 +30611,22 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Core Components|Rawhide Strap|Rawhide Scraps",
+   "id": "Leatherworking|Core Components|Rawhide Strap|Rawhide Canvas",
    "skill": "Leatherworking",
    "section": "Core Components",
    "trivial": 5,
    "name": "Rawhide Strap",
-   "makes": 1,
+   "makes": 3,
    "results": [
     {
-     "qty": 1,
+     "qty": 3,
      "name": "Rawhide Strap"
     }
    ],
    "ingredients": [
     {
-     "qty": 2,
-     "name": "Rawhide Scraps",
+     "qty": 1,
+     "name": "Rawhide Canvas",
      "tool": false
     }
    ],
@@ -30686,22 +30686,22 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Core Components|Hide Strap|Hide Scraps",
+   "id": "Leatherworking|Core Components|Hide Strap|Hide Canvas",
    "skill": "Leatherworking",
    "section": "Core Components",
    "trivial": 80,
    "name": "Hide Strap",
-   "makes": 1,
+   "makes": 3,
    "results": [
     {
-     "qty": 1,
+     "qty": 3,
      "name": "Hide Strap"
     }
    ],
    "ingredients": [
     {
-     "qty": 2,
-     "name": "Hide Scraps",
+     "qty": 1,
+     "name": "Hide Canvas",
      "tool": false
     }
    ],
@@ -30761,22 +30761,22 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Core Components|Leather Strap|Leather Scraps",
+   "id": "Leatherworking|Core Components|Leather Strap|Leather Canvas",
    "skill": "Leatherworking",
    "section": "Core Components",
    "trivial": 155,
    "name": "Leather Strap",
-   "makes": 1,
+   "makes": 3,
    "results": [
     {
-     "qty": 1,
+     "qty": 3,
      "name": "Leather Strap"
     }
    ],
    "ingredients": [
     {
-     "qty": 2,
-     "name": "Leather Scraps",
+     "qty": 1,
+     "name": "Leather Canvas",
      "tool": false
     }
    ],
@@ -30836,22 +30836,22 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Core Components|Padded Leather Strap|Padded Leather Scraps",
+   "id": "Leatherworking|Core Components|Padded Leather Strap|Padded Leather Canvas",
    "skill": "Leatherworking",
    "section": "Core Components",
    "trivial": 230,
    "name": "Padded Leather Strap",
-   "makes": 1,
+   "makes": 3,
    "results": [
     {
-     "qty": 1,
+     "qty": 3,
      "name": "Padded Leather Strap"
     }
    ],
    "ingredients": [
     {
-     "qty": 2,
-     "name": "Padded Leather Scraps",
+     "qty": 1,
+     "name": "Padded Leather Canvas",
      "tool": false
     }
    ],
