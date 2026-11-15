@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-14",
+ "fetched": "2026-11-15",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -7788,7 +7788,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 130 – 155|Bronze War Lance|Bronze Bar+Flux",
+   "id": "Blacksmithing|Trivial 130 – 155|Bronze War Lance|Bronze Bar+Flux+Hardened Spear Mold",
    "skill": "Blacksmithing",
    "section": "Trivial 130 – 155",
    "trivial": 130,
@@ -7802,13 +7802,18 @@
    ],
    "ingredients": [
     {
-     "qty": 9,
+     "qty": 8,
      "name": "Bronze Bar",
      "tool": false
     },
     {
      "qty": 1,
      "name": "Flux",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Hardened Spear Mold",
      "tool": false
     }
    ],
@@ -8538,7 +8543,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 155 – 175|Weighty Sharpening Stone|Weighty Stone",
+   "id": "Blacksmithing|Trivial 155 – 175|Weighty Sharpening Stone|Weighty Stone+Refined Fish Oil",
    "skill": "Blacksmithing",
    "section": "Trivial 155 – 175",
    "trivial": 155,
@@ -8552,8 +8557,13 @@
    ],
    "ingredients": [
     {
-     "qty": 4,
+     "qty": 3,
      "name": "Weighty Stone",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Refined Fish Oil",
      "tool": false
     }
    ],
@@ -8697,7 +8707,7 @@
    ],
    "ingredients": [
     {
-     "qty": 3,
+     "qty": 8,
      "name": "Iron Bar",
      "tool": false
     }
@@ -33196,6 +33206,201 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
+   "id": "Leatherworking|Basilisk Scale Armor|Basilisk Scale Belt|Basilisk Scale+Basilisk Tooth+Leather Belt",
+   "skill": "Leatherworking",
+   "section": "Basilisk Scale Armor",
+   "trivial": null,
+   "name": "Basilisk Scale Belt",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Basilisk Scale Belt"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 3,
+     "name": "Basilisk Scale",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Basilisk Tooth",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Leather Belt",
+     "tool": false
+    }
+   ],
+   "station": "Leatherworking Station",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
+  },
+  {
+   "id": "Leatherworking|Basilisk Scale Armor|Basilisk Scale Gauntlets|Basilisk Scale+Basilisk Tooth+Leather Gloves",
+   "skill": "Leatherworking",
+   "section": "Basilisk Scale Armor",
+   "trivial": null,
+   "name": "Basilisk Scale Gauntlets",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Basilisk Scale Gauntlets"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 3,
+     "name": "Basilisk Scale",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Basilisk Tooth",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Leather Gloves",
+     "tool": false
+    }
+   ],
+   "station": "Leatherworking Station",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
+  },
+  {
+   "id": "Leatherworking|Basilisk Scale Armor|Basilisk Scale Helmet|Basilisk Scale+Basilisk Tooth+Leather Cap",
+   "skill": "Leatherworking",
+   "section": "Basilisk Scale Armor",
+   "trivial": null,
+   "name": "Basilisk Scale Helmet",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Basilisk Scale Helmet"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 3,
+     "name": "Basilisk Scale",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Basilisk Tooth",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Leather Cap",
+     "tool": false
+    }
+   ],
+   "station": "Leatherworking Station",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
+  },
+  {
+   "id": "Leatherworking|Tidereavers Armor|Tidereavers Wristguard|Shark Fin+Sleek Shark Skin",
+   "skill": "Leatherworking",
+   "section": "Tidereavers Armor",
+   "trivial": null,
+   "name": "Tidereavers Wristguard",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Tidereavers Wristguard"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 4,
+     "name": "Shark Fin",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "Sleek Shark Skin",
+     "tool": false
+    }
+   ],
+   "station": "Leatherworking Station",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
+  },
+  {
+   "id": "Leatherworking|Tidereavers Armor|Tidereavers Pauldrons|?x Shark Fin+?x Sleek Shark Skin",
+   "skill": "Leatherworking",
+   "section": "Tidereavers Armor",
+   "trivial": null,
+   "name": "Tidereavers Pauldrons",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Tidereavers Pauldrons"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "?x Shark Fin",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x Sleek Shark Skin",
+     "tool": false
+    }
+   ],
+   "station": "Leatherworking Station",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
+  },
+  {
+   "id": "Leatherworking|Tidereavers Armor|Tidereavers Boots|?x Shark Fin+?x Sleek Shark Skin",
+   "skill": "Leatherworking",
+   "section": "Tidereavers Armor",
+   "trivial": null,
+   "name": "Tidereavers Boots",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Tidereavers Boots"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "?x Shark Fin",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x Sleek Shark Skin",
+     "tool": false
+    }
+   ],
+   "station": "Leatherworking Station",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
+  },
+  {
    "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Mask|Rawhide Scraps+Tattered Rawhide Mask",
    "skill": "Leatherworking",
    "section": "Patched Rawhide Armor",
@@ -38476,9 +38681,174 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Tunic|Cloth Scraps+Tattered Cloth Tunic",
+   "id": "Tailoring|Umbral Armor|Umbral Robe|Mote of Shadow+Veiled Fabric+Fine Cotton Robe",
    "skill": "Tailoring",
-   "section": "Patched Cloth Armor",
+   "section": "Umbral Armor",
+   "trivial": null,
+   "name": "Umbral Robe",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Umbral Robe"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Mote of Shadow",
+     "tool": false
+    },
+    {
+     "qty": 5,
+     "name": "Veiled Fabric",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Fine Cotton Robe",
+     "tool": false
+    }
+   ],
+   "station": "Loom",
+   "notes": "Items are a drop off of inner cultist temple mobs, Glass Flats",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
+  },
+  {
+   "id": "Tailoring|Umbral Armor|Umbral Mantle|Mote of Shadow+Veiled Fabric+Fine Cotton Mantle",
+   "skill": "Tailoring",
+   "section": "Umbral Armor",
+   "trivial": null,
+   "name": "Umbral Mantle",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Umbral Mantle"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Mote of Shadow",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "Veiled Fabric",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Fine Cotton Mantle",
+     "tool": false
+    }
+   ],
+   "station": "Loom",
+   "notes": "Items are a drop off of inner cultist temple mobs, Glass Flats",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
+  },
+  {
+   "id": "Tailoring|Umbral Armor|Umbral Gloves|Mote of Shadow+Veiled Fabric+Fine Linen Gloves",
+   "skill": "Tailoring",
+   "section": "Umbral Armor",
+   "trivial": null,
+   "name": "Umbral Gloves",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Umbral Gloves"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Mote of Shadow",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Veiled Fabric",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Fine Linen Gloves",
+     "tool": false
+    }
+   ],
+   "station": "Loom",
+   "notes": "Items are a drop off of inner cultist temple mobs, Glass Flats",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
+  },
+  {
+   "id": "Tailoring|Umbral Armor|Umbral Drape|Mote of Shadow+?x Veiled Fabric+Fine Cotton Cape",
+   "skill": "Tailoring",
+   "section": "Umbral Armor",
+   "trivial": null,
+   "name": "Umbral Drape",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Umbral Drape"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Mote of Shadow",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x Veiled Fabric",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Fine Cotton Cape",
+     "tool": false
+    }
+   ],
+   "station": "Loom",
+   "notes": "Items are a drop off of inner cultist temple mobs, Glass Flats",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
+  },
+  {
+   "id": "Tailoring|Umbral Armor|Result|Ingredients",
+   "skill": "Tailoring",
+   "section": "Umbral Armor",
+   "trivial": null,
+   "name": "Result",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Result"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Ingredients",
+     "tool": false
+    }
+   ],
+   "station": "Loom",
+   "notes": "Scraps Yield",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
+  },
+  {
+   "id": "Tailoring|Umbral Armor|Patched Cloth Tunic|Cloth Scraps+Tattered Cloth Tunic",
+   "skill": "Tailoring",
+   "section": "Umbral Armor",
    "trivial": 10,
    "name": "Patched Cloth Tunic",
    "makes": 1,
@@ -38506,9 +38876,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Pantaloons|Cloth Scraps+Tattered Cloth Pantaloons",
+   "id": "Tailoring|Umbral Armor|Patched Cloth Pantaloons|Cloth Scraps+Tattered Cloth Pantaloons",
    "skill": "Tailoring",
-   "section": "Patched Cloth Armor",
+   "section": "Umbral Armor",
    "trivial": 10,
    "name": "Patched Cloth Pantaloons",
    "makes": 1,
@@ -38536,9 +38906,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Cap|Cloth Scraps+Tattered Cloth Cap",
+   "id": "Tailoring|Umbral Armor|Patched Cloth Cap|Cloth Scraps+Tattered Cloth Cap",
    "skill": "Tailoring",
-   "section": "Patched Cloth Armor",
+   "section": "Umbral Armor",
    "trivial": 10,
    "name": "Patched Cloth Cap",
    "makes": 1,
@@ -38566,9 +38936,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Veil|Cloth Scraps+Tattered Cloth Veil",
+   "id": "Tailoring|Umbral Armor|Patched Cloth Veil|Cloth Scraps+Tattered Cloth Veil",
    "skill": "Tailoring",
-   "section": "Patched Cloth Armor",
+   "section": "Umbral Armor",
    "trivial": 10,
    "name": "Patched Cloth Veil",
    "makes": 1,
@@ -38596,9 +38966,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Cape|Cloth Scraps+Tattered Cloth Cape",
+   "id": "Tailoring|Umbral Armor|Patched Cloth Cape|Cloth Scraps+Tattered Cloth Cape",
    "skill": "Tailoring",
-   "section": "Patched Cloth Armor",
+   "section": "Umbral Armor",
    "trivial": 10,
    "name": "Patched Cloth Cape",
    "makes": 1,
@@ -38626,9 +38996,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Mantle|Cloth Scraps+Tattered Cloth Mantle",
+   "id": "Tailoring|Umbral Armor|Patched Cloth Mantle|Cloth Scraps+Tattered Cloth Mantle",
    "skill": "Tailoring",
-   "section": "Patched Cloth Armor",
+   "section": "Umbral Armor",
    "trivial": 10,
    "name": "Patched Cloth Mantle",
    "makes": 1,
@@ -38656,9 +39026,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Gloves|Cloth Scraps+Tattered Cloth Gloves",
+   "id": "Tailoring|Umbral Armor|Patched Cloth Gloves|Cloth Scraps+Tattered Cloth Gloves",
    "skill": "Tailoring",
-   "section": "Patched Cloth Armor",
+   "section": "Umbral Armor",
    "trivial": 10,
    "name": "Patched Cloth Gloves",
    "makes": 1,
@@ -38686,9 +39056,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Belt|Cloth Scraps+Tattered Cloth Belt",
+   "id": "Tailoring|Umbral Armor|Patched Cloth Belt|Cloth Scraps+Tattered Cloth Belt",
    "skill": "Tailoring",
-   "section": "Patched Cloth Armor",
+   "section": "Umbral Armor",
    "trivial": 10,
    "name": "Patched Cloth Belt",
    "makes": 1,
@@ -38716,9 +39086,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Bracer|Cloth Scraps+Tattered Cloth Bracer",
+   "id": "Tailoring|Umbral Armor|Patched Cloth Bracer|Cloth Scraps+Tattered Cloth Bracer",
    "skill": "Tailoring",
-   "section": "Patched Cloth Armor",
+   "section": "Umbral Armor",
    "trivial": 10,
    "name": "Patched Cloth Bracer",
    "makes": 1,
@@ -38746,9 +39116,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Gorget|Cloth Scraps+Tattered Cloth Gorget",
+   "id": "Tailoring|Umbral Armor|Patched Cloth Gorget|Cloth Scraps+Tattered Cloth Gorget",
    "skill": "Tailoring",
-   "section": "Patched Cloth Armor",
+   "section": "Umbral Armor",
    "trivial": 10,
    "name": "Patched Cloth Gorget",
    "makes": 1,
