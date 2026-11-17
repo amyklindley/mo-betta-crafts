@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-16",
+ "fetched": "2026-11-17",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -1903,7 +1903,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 101 – 140|Lesser Elixir of Deadliness|Stranglevine Powder+Greater Elemental Core+Magic Powder+Leaded Flask",
+   "id": "Alchemy|Trivial 101 – 140|Lesser Elixir of Deadliness|Stranglevine Powder+Savage Wolf Claw+Magic Powder+Leaded Flask",
    "skill": "Alchemy",
    "section": "Trivial 101 – 140",
    "trivial": 140,
@@ -1923,7 +1923,7 @@
     },
     {
      "qty": 4,
-     "name": "Greater Elemental Core",
+     "name": "Savage Wolf Claw",
      "tool": false
     },
     {
@@ -38821,34 +38821,184 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Result|Ingredients",
+   "id": "Tailoring|Toxic Armor|Toxic Hood|Fine Wool Cap+?x Shadow Silk+?x ?",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Toxic Armor",
    "trivial": null,
-   "name": "Result",
+   "name": "Toxic Hood",
    "makes": 1,
    "results": [
     {
      "qty": 1,
-     "name": "Result"
+     "name": "Toxic Hood"
     }
    ],
    "ingredients": [
     {
      "qty": 1,
-     "name": "Ingredients",
+     "name": "Fine Wool Cap",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x Shadow Silk",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x ?",
      "tool": false
     }
    ],
    "station": "Loom",
-   "notes": "Scraps Yield",
+   "notes": "Items are a drop off of spiders in Ail'vorith",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Patched Cloth Tunic|Cloth Scraps+Tattered Cloth Tunic",
+   "id": "Tailoring|Toxic Armor|Toxic Gloves|Fine Wool Gloves+?x Shadow Silk+?x ?",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Toxic Armor",
+   "trivial": null,
+   "name": "Toxic Gloves",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Toxic Gloves"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Fine Wool Gloves",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x Shadow Silk",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x ?",
+     "tool": false
+    }
+   ],
+   "station": "Loom",
+   "notes": "Items are a drop off of spiders in Ail'vorith",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
+  },
+  {
+   "id": "Tailoring|Toxic Armor|Toxic Wraps|Fine Wool Boots+?x Shadow Silk+?x ?",
+   "skill": "Tailoring",
+   "section": "Toxic Armor",
+   "trivial": null,
+   "name": "Toxic Wraps",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Toxic Wraps"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Fine Wool Boots",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x Shadow Silk",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x ?",
+     "tool": false
+    }
+   ],
+   "station": "Loom",
+   "notes": "Items are a drop off of spiders in Ail'vorith",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
+  },
+  {
+   "id": "Tailoring|Mesmerizing Armor|Mesmerizing Cap|Fine Wool Cap+Mesmeric Vitreous+Sturdy Spider Silk",
+   "skill": "Tailoring",
+   "section": "Mesmerizing Armor",
+   "trivial": null,
+   "name": "Mesmerizing Cap",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Mesmerizing Cap"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Fine Wool Cap",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Mesmeric Vitreous",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Sturdy Spider Silk",
+     "tool": false
+    }
+   ],
+   "station": "Loom",
+   "notes": "Vitreous is a drop off of a lesser observer in Caves of Irem",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
+  },
+  {
+   "id": "Tailoring|Mesmerizing Armor|Mesmerizing Robe|Fine Wool Robe+?x ?+?x ?",
+   "skill": "Tailoring",
+   "section": "Mesmerizing Armor",
+   "trivial": null,
+   "name": "Mesmerizing Robe",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Mesmerizing Robe"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Fine Wool Robe",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x ?",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "?x ?",
+     "tool": false
+    }
+   ],
+   "station": "Loom",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
+  },
+  {
+   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Tunic|Cloth Scraps+Tattered Cloth Tunic",
+   "skill": "Tailoring",
+   "section": "Patched Cloth Armor",
    "trivial": 10,
    "name": "Patched Cloth Tunic",
    "makes": 1,
@@ -38876,9 +39026,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Patched Cloth Pantaloons|Cloth Scraps+Tattered Cloth Pantaloons",
+   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Pantaloons|Cloth Scraps+Tattered Cloth Pantaloons",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Patched Cloth Armor",
    "trivial": 10,
    "name": "Patched Cloth Pantaloons",
    "makes": 1,
@@ -38906,9 +39056,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Patched Cloth Cap|Cloth Scraps+Tattered Cloth Cap",
+   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Cap|Cloth Scraps+Tattered Cloth Cap",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Patched Cloth Armor",
    "trivial": 10,
    "name": "Patched Cloth Cap",
    "makes": 1,
@@ -38936,9 +39086,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Patched Cloth Veil|Cloth Scraps+Tattered Cloth Veil",
+   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Veil|Cloth Scraps+Tattered Cloth Veil",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Patched Cloth Armor",
    "trivial": 10,
    "name": "Patched Cloth Veil",
    "makes": 1,
@@ -38966,9 +39116,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Patched Cloth Cape|Cloth Scraps+Tattered Cloth Cape",
+   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Cape|Cloth Scraps+Tattered Cloth Cape",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Patched Cloth Armor",
    "trivial": 10,
    "name": "Patched Cloth Cape",
    "makes": 1,
@@ -38996,9 +39146,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Patched Cloth Mantle|Cloth Scraps+Tattered Cloth Mantle",
+   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Mantle|Cloth Scraps+Tattered Cloth Mantle",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Patched Cloth Armor",
    "trivial": 10,
    "name": "Patched Cloth Mantle",
    "makes": 1,
@@ -39026,9 +39176,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Patched Cloth Gloves|Cloth Scraps+Tattered Cloth Gloves",
+   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Gloves|Cloth Scraps+Tattered Cloth Gloves",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Patched Cloth Armor",
    "trivial": 10,
    "name": "Patched Cloth Gloves",
    "makes": 1,
@@ -39056,9 +39206,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Patched Cloth Belt|Cloth Scraps+Tattered Cloth Belt",
+   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Belt|Cloth Scraps+Tattered Cloth Belt",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Patched Cloth Armor",
    "trivial": 10,
    "name": "Patched Cloth Belt",
    "makes": 1,
@@ -39086,9 +39236,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Patched Cloth Bracer|Cloth Scraps+Tattered Cloth Bracer",
+   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Bracer|Cloth Scraps+Tattered Cloth Bracer",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Patched Cloth Armor",
    "trivial": 10,
    "name": "Patched Cloth Bracer",
    "makes": 1,
@@ -39116,9 +39266,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Umbral Armor|Patched Cloth Gorget|Cloth Scraps+Tattered Cloth Gorget",
+   "id": "Tailoring|Patched Cloth Armor|Patched Cloth Gorget|Cloth Scraps+Tattered Cloth Gorget",
    "skill": "Tailoring",
-   "section": "Umbral Armor",
+   "section": "Patched Cloth Armor",
    "trivial": 10,
    "name": "Patched Cloth Gorget",
    "makes": 1,
