@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-18",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -8389,6 +8389,246 @@
     {
      "qty": 3,
      "name": "Hide Strap",
+     "tool": false
+    }
+   ],
+   "station": "Anvil",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
+  },
+  {
+   "id": "Blacksmithing|Trivial 130 – 155|Gilded Boots|Bronze Chain Boots+Glimmering Drake Scale+Drake Fang+Drake Claw",
+   "skill": "Blacksmithing",
+   "section": "Trivial 130 – 155",
+   "trivial": null,
+   "name": "Gilded Boots",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Gilded Boots"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Bronze Chain Boots",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Glimmering Drake Scale",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Drake Fang",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Drake Claw",
+     "tool": false
+    }
+   ],
+   "station": "Anvil",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
+  },
+  {
+   "id": "Blacksmithing|Trivial 130 – 155|Gilded Helm|Bronze Chain Coif+Glimmering Drake Scale+Drake Fang+Drake Claw",
+   "skill": "Blacksmithing",
+   "section": "Trivial 130 – 155",
+   "trivial": null,
+   "name": "Gilded Helm",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Gilded Helm"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Bronze Chain Coif",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Glimmering Drake Scale",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Drake Fang",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Drake Claw",
+     "tool": false
+    }
+   ],
+   "station": "Anvil",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
+  },
+  {
+   "id": "Blacksmithing|Trivial 130 – 155|Gilded Gauntlets|Bronze Chain Gloves+Glimmering Drake Scale+Drake Fang+Drake Claw",
+   "skill": "Blacksmithing",
+   "section": "Trivial 130 – 155",
+   "trivial": null,
+   "name": "Gilded Gauntlets",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Gilded Gauntlets"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Bronze Chain Gloves",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Glimmering Drake Scale",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Drake Fang",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Drake Claw",
+     "tool": false
+    }
+   ],
+   "station": "Anvil",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
+  },
+  {
+   "id": "Blacksmithing|Trivial 130 – 155|Gilded Pauldrons|Bronze Chain Shoulderguards+Glimmering Drake Scale+Drake Fang+Drake Claw",
+   "skill": "Blacksmithing",
+   "section": "Trivial 130 – 155",
+   "trivial": null,
+   "name": "Gilded Pauldrons",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Gilded Pauldrons"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Bronze Chain Shoulderguards",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Glimmering Drake Scale",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Drake Fang",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Drake Claw",
+     "tool": false
+    }
+   ],
+   "station": "Anvil",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
+  },
+  {
+   "id": "Blacksmithing|Trivial 130 – 155|Gilded Graves|Bronze Chain Leggings+Glimmering Drake Scale+Drake Fang+Drake Claw",
+   "skill": "Blacksmithing",
+   "section": "Trivial 130 – 155",
+   "trivial": null,
+   "name": "Gilded Graves",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Gilded Graves"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Bronze Chain Leggings",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Glimmering Drake Scale",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Drake Fang",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Drake Claw",
+     "tool": false
+    }
+   ],
+   "station": "Anvil",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
+  },
+  {
+   "id": "Blacksmithing|Trivial 130 – 155|Gilded Vest|Bronze Chain Tunic+Glimmering Drake Scale+Drake Fang+Drake Claw",
+   "skill": "Blacksmithing",
+   "section": "Trivial 130 – 155",
+   "trivial": 150,
+   "name": "Gilded Vest",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Gilded Vest"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Bronze Chain Tunic",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "Glimmering Drake Scale",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Drake Fang",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Drake Claw",
      "tool": false
     }
    ],
