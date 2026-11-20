@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-20",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -911,7 +911,7 @@
    "id": "Alchemy|Trivial 25 – 50|Minor Serum of Strength|Lionleaf Powder+Ghost Poppy Powder+Makeshift Vial",
    "skill": "Alchemy",
    "section": "Trivial 25 – 50",
-   "trivial": 30,
+   "trivial": 35,
    "name": "Minor Serum of Strength",
    "makes": 1,
    "results": [
@@ -981,7 +981,7 @@
    "id": "Alchemy|Trivial 25 – 50|Potion of Prickly Barrier|Ironroot Powder+Fire Beetle Gland+Makeshift Vial",
    "skill": "Alchemy",
    "section": "Trivial 25 – 50",
-   "trivial": 35,
+   "trivial": 40,
    "name": "Potion of Prickly Barrier",
    "makes": 1,
    "results": [
@@ -2043,46 +2043,6 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
-   "id": "Alchemy|Trivial 141 – 220+|Eltindra's Blessing|Ethtongue Powder+Wolf Heart+Tempered Vial+Arcane Powder",
-   "skill": "Alchemy",
-   "section": "Trivial 141 – 220+",
-   "trivial": 250,
-   "name": "Eltindra's Blessing",
-   "makes": 1,
-   "results": [
-    {
-     "qty": 1,
-     "name": "Eltindra's Blessing"
-    }
-   ],
-   "ingredients": [
-    {
-     "qty": 3,
-     "name": "Ethtongue Powder",
-     "tool": false
-    },
-    {
-     "qty": 2,
-     "name": "Wolf Heart",
-     "tool": false
-    },
-    {
-     "qty": 1,
-     "name": "Tempered Vial",
-     "tool": false
-    },
-    {
-     "qty": 3,
-     "name": "Arcane Powder",
-     "tool": false
-    }
-   ],
-   "station": "Cauldron",
-   "notes": "+30% Move Speed for 60 mins (10 Charges).",
-   "salvage": false,
-   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
-  },
-  {
    "id": "Alchemy|Trivial 141 – 220+|Potion of the Gravewalker|Last Breath Powder+Zombie Skin+Annealed Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
@@ -2403,6 +2363,106 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
   },
   {
+   "id": "Alchemy|Trivial 141 – 220+|Exceptional Wood Finish|Exceptional Fish Oil+Resin",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": null,
+   "name": "Exceptional Wood Finish",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Exceptional Wood Finish"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Exceptional Fish Oil",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Resin",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
+   "id": "Alchemy|Trivial 141 – 220+|Eltindra's Blessing|Ethtongue Powder+Wolf Heart+Tempered Vial+Arcane Powder",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": 250,
+   "name": "Eltindra's Blessing",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Eltindra's Blessing"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 3,
+     "name": "Ethtongue Powder",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Wolf Heart",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Tempered Vial",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Arcane Powder",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "+30% Move Speed for 60 mins (10 Charges).",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
+   "id": "Alchemy|Trivial 141 – 220+|Exceptional Fish Oil|Mossveil Catfish x3 / Jumping Damselfish+Tempered Vial",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": 262,
+   "name": "Exceptional Fish Oil",
+   "makes": 3,
+   "results": [
+    {
+     "qty": 3,
+     "name": "Exceptional Fish Oil"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 3,
+     "name": "Mossveil Catfish x3 / Jumping Damselfish",
+     "tool": false
+    },
+    {
+     "qty": 3,
+     "name": "Tempered Vial",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
    "id": "Alchemy|Trivial 141 – 220+|Greater Serum of Dexterity|Last Breath Powder+Ethtongue Powder+Tempered Vial",
    "skill": "Alchemy",
    "section": "Trivial 141 – 220+",
@@ -2504,36 +2564,6 @@
     {
      "qty": 1,
      "name": "Tempered Vial",
-     "tool": false
-    }
-   ],
-   "station": "Cauldron",
-   "notes": "",
-   "salvage": false,
-   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
-  },
-  {
-   "id": "Alchemy|Trivial 141 – 220+|Exceptional Wood Finish|Exceptional Fish Oil+Resin",
-   "skill": "Alchemy",
-   "section": "Trivial 141 – 220+",
-   "trivial": null,
-   "name": "Exceptional Wood Finish",
-   "makes": 1,
-   "results": [
-    {
-     "qty": 1,
-     "name": "Exceptional Wood Finish"
-    }
-   ],
-   "ingredients": [
-    {
-     "qty": 1,
-     "name": "Exceptional Fish Oil",
-     "tool": false
-    },
-    {
-     "qty": 3,
-     "name": "Resin",
      "tool": false
     }
    ],
@@ -8558,16 +8588,16 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Blacksmithing"
   },
   {
-   "id": "Blacksmithing|Trivial 130 – 155|Gilded Graves|Bronze Chain Leggings+Glimmering Drake Scale+Drake Fang+Drake Claw",
+   "id": "Blacksmithing|Trivial 130 – 155|Gilded Greaves|Bronze Chain Leggings+Glimmering Drake Scale+Drake Fang+Drake Claw",
    "skill": "Blacksmithing",
    "section": "Trivial 130 – 155",
    "trivial": null,
-   "name": "Gilded Graves",
+   "name": "Gilded Greaves",
    "makes": 1,
    "results": [
     {
      "qty": 1,
-     "name": "Gilded Graves"
+     "name": "Gilded Greaves"
     }
    ],
    "ingredients": [
@@ -33551,7 +33581,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Tidereavers Armor|Tidereavers Wristguard|Shark Fin+Sleek Shark Skin",
+   "id": "Leatherworking|Tidereavers Armor|Tidereavers Wristguard|Shark Fin+Sleek Shark Skin+x2 Devourer Scale",
    "skill": "Leatherworking",
    "section": "Tidereavers Armor",
    "trivial": null,
@@ -33565,13 +33595,18 @@
    ],
    "ingredients": [
     {
-     "qty": 4,
+     "qty": 2,
      "name": "Shark Fin",
      "tool": false
     },
     {
-     "qty": 4,
+     "qty": 3,
      "name": "Sleek Shark Skin",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "x2 Devourer Scale",
      "tool": false
     }
    ],
@@ -33581,7 +33616,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Tidereavers Armor|Tidereavers Pauldrons|?x Shark Fin+?x Sleek Shark Skin",
+   "id": "Leatherworking|Tidereavers Armor|Tidereavers Pauldrons|Shark Fin+Sleek Shark Skin+x2 Devourer Scale",
    "skill": "Leatherworking",
    "section": "Tidereavers Armor",
    "trivial": null,
@@ -33595,13 +33630,18 @@
    ],
    "ingredients": [
     {
-     "qty": 1,
-     "name": "?x Shark Fin",
+     "qty": 2,
+     "name": "Shark Fin",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "Sleek Shark Skin",
      "tool": false
     },
     {
      "qty": 1,
-     "name": "?x Sleek Shark Skin",
+     "name": "x2 Devourer Scale",
      "tool": false
     }
    ],
@@ -33611,7 +33651,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Tidereavers Armor|Tidereavers Boots|?x Shark Fin+?x Sleek Shark Skin",
+   "id": "Leatherworking|Tidereavers Armor|Tidereavers Boots|Shark Fin+Sleek Shark Skin+x2 Devourer Scale",
    "skill": "Leatherworking",
    "section": "Tidereavers Armor",
    "trivial": null,
@@ -33625,13 +33665,18 @@
    ],
    "ingredients": [
     {
-     "qty": 1,
-     "name": "?x Shark Fin",
+     "qty": 2,
+     "name": "Shark Fin",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Sleek Shark Skin",
      "tool": false
     },
     {
      "qty": 1,
-     "name": "?x Sleek Shark Skin",
+     "name": "x2 Devourer Scale",
      "tool": false
     }
    ],
