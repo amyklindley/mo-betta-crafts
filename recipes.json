@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-21",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -33581,16 +33581,16 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Tidereavers Armor|Tidereavers Wristguard|Shark Fin+Sleek Shark Skin+x2 Devourer Scale",
+   "id": "Leatherworking|Tidereavers Armor|Tidereaver's Wristguard|Shark Fin+Sleek Shark Skin+x2 Devourer Scale",
    "skill": "Leatherworking",
    "section": "Tidereavers Armor",
    "trivial": null,
-   "name": "Tidereavers Wristguard",
+   "name": "Tidereaver's Wristguard",
    "makes": 1,
    "results": [
     {
      "qty": 1,
-     "name": "Tidereavers Wristguard"
+     "name": "Tidereaver's Wristguard"
     }
    ],
    "ingredients": [
@@ -33616,16 +33616,16 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Tidereavers Armor|Tidereavers Pauldrons|Shark Fin+Sleek Shark Skin+x2 Devourer Scale",
+   "id": "Leatherworking|Tidereavers Armor|Tidereaver's Pauldrons|Shark Fin+Sleek Shark Skin+x2 Devourer Scale",
    "skill": "Leatherworking",
    "section": "Tidereavers Armor",
    "trivial": null,
-   "name": "Tidereavers Pauldrons",
+   "name": "Tidereaver's Pauldrons",
    "makes": 1,
    "results": [
     {
      "qty": 1,
-     "name": "Tidereavers Pauldrons"
+     "name": "Tidereaver's Pauldrons"
     }
    ],
    "ingredients": [
@@ -33651,16 +33651,16 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Tidereavers Armor|Tidereavers Boots|Shark Fin+Sleek Shark Skin+x2 Devourer Scale",
+   "id": "Leatherworking|Tidereavers Armor|Tidereaver's Boots|Shark Fin+Sleek Shark Skin+x2 Devourer Scale",
    "skill": "Leatherworking",
    "section": "Tidereavers Armor",
    "trivial": null,
-   "name": "Tidereavers Boots",
+   "name": "Tidereaver's Boots",
    "makes": 1,
    "results": [
     {
      "qty": 1,
-     "name": "Tidereavers Boots"
+     "name": "Tidereaver's Boots"
     }
    ],
    "ingredients": [
@@ -33686,9 +33686,69 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Mask|Rawhide Scraps+Tattered Rawhide Mask",
+   "id": "Leatherworking|Tidereavers Armor|Shadowstalker Vest|vampiric Essence+vampire Bat Hide+x1 Leather Tunic",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
+   "trivial": null,
+   "name": "Shadowstalker Vest",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Shadowstalker Vest"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "vampiric Essence",
+     "tool": false
+    },
+    {
+     "qty": 4,
+     "name": "vampire Bat Hide",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "x1 Leather Tunic",
+     "tool": false
+    }
+   ],
+   "station": "Leatherworking Station",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
+  },
+  {
+   "id": "Leatherworking|Tidereavers Armor|Result|Ingredients",
+   "skill": "Leatherworking",
+   "section": "Tidereavers Armor",
+   "trivial": null,
+   "name": "Result",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Result"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Ingredients",
+     "tool": false
+    }
+   ],
+   "station": "Leatherworking Station",
+   "notes": "Scraps Yield",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
+  },
+  {
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Mask|Rawhide Scraps+Tattered Rawhide Mask",
+   "skill": "Leatherworking",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Mask",
    "makes": 1,
@@ -33716,9 +33776,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Tunic|Rawhide Scraps+Tattered Rawhide Tunic",
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Tunic|Rawhide Scraps+Tattered Rawhide Tunic",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Tunic",
    "makes": 1,
@@ -33746,9 +33806,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Leggings|Rawhide Scraps+Tattered Rawhide Leggings",
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Leggings|Rawhide Scraps+Tattered Rawhide Leggings",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Leggings",
    "makes": 1,
@@ -33776,9 +33836,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Shoulderpads|Rawhide Scraps+Tattered Rawhide Shoulderpads",
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Shoulderpads|Rawhide Scraps+Tattered Rawhide Shoulderpads",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Shoulderpads",
    "makes": 1,
@@ -33806,9 +33866,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Cap|Rawhide Scraps+Tattered Rawhide Cap",
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Cap|Rawhide Scraps+Tattered Rawhide Cap",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Cap",
    "makes": 1,
@@ -33836,9 +33896,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Gorget|Rawhide Scraps+Tattered Rawhide Cloak",
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Gorget|Rawhide Scraps+Tattered Rawhide Cloak",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Gorget",
    "makes": 1,
@@ -33866,9 +33926,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Gloves|Rawhide Scraps+Tattered Rawhide Gloves",
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Gloves|Rawhide Scraps+Tattered Rawhide Gloves",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Gloves",
    "makes": 1,
@@ -33896,9 +33956,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Bracelet|Rawhide Scraps+Tattered Rawhide Bracer",
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Bracelet|Rawhide Scraps+Tattered Rawhide Bracer",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Bracelet",
    "makes": 1,
@@ -33926,9 +33986,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Belt|Rawhide Scraps+Tattered Rawhide Belt",
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Belt|Rawhide Scraps+Tattered Rawhide Belt",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Belt",
    "makes": 1,
@@ -33956,9 +34016,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Gorget|Rawhide Scraps+Tattered Rawhide Gorget",
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Gorget|Rawhide Scraps+Tattered Rawhide Gorget",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Gorget",
    "makes": 1,
@@ -33986,9 +34046,9 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Leatherworking|Patched Rawhide Armor|Patched Rawhide Boots|Rawhide Scraps+Tattered Rawhide Boots",
+   "id": "Leatherworking|Tidereavers Armor|Patched Rawhide Boots|Rawhide Scraps+Tattered Rawhide Boots",
    "skill": "Leatherworking",
-   "section": "Patched Rawhide Armor",
+   "section": "Tidereavers Armor",
    "trivial": 5,
    "name": "Patched Rawhide Boots",
    "makes": 1,
