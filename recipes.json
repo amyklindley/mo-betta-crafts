@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-23",
+ "fetched": "2026-11-24",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -36116,7 +36116,7 @@
     }
    ],
    "station": "Loom",
-   "notes": "Used in numerous recipes, most notably Cotton Pouch and Cotton Backpack.",
+   "notes": "Used in numerous recipes, most notably Cotton Pouch and Cotton Backpack. Unlocks at 105",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
@@ -36141,7 +36141,7 @@
     }
    ],
    "station": "Loom",
-   "notes": "Used to craft Leather Armor.",
+   "notes": "Used to craft Leather Armor. Unlocks at 105",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
@@ -36306,7 +36306,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Containers|Wool Pouch|Bolt of Wool+Rough Thread",
+   "id": "Tailoring|Containers|Wool Pouch|Bolt of Wool+Light Thread",
    "skill": "Tailoring",
    "section": "Containers",
    "trivial": 100,
@@ -36326,7 +36326,7 @@
     },
     {
      "qty": 3,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     }
    ],
@@ -36336,7 +36336,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Containers|Wool Satchel|Bolt of Wool+Rough Thread",
+   "id": "Tailoring|Containers|Wool Satchel|Bolt of Wool+Light Thread",
    "skill": "Tailoring",
    "section": "Containers",
    "trivial": 110,
@@ -36356,7 +36356,7 @@
     },
     {
      "qty": 2,
-     "name": "Rough Thread",
+     "name": "Light Thread",
      "tool": false
     }
    ],
@@ -39045,7 +39045,7 @@
      "tool": false
     },
     {
-     "qty": 5,
+     "qty": 4,
      "name": "Veiled Fabric",
      "tool": false
     },
@@ -39306,7 +39306,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Tailoring"
   },
   {
-   "id": "Tailoring|Mesmerizing Armor|Mesmerizing Robe|Fine Wool Robe+?x ?+?x ?",
+   "id": "Tailoring|Mesmerizing Armor|Mesmerizing Robe|Fine Wool Robe+Mesmeric Vitreous+Sturdy Spider Silk",
    "skill": "Tailoring",
    "section": "Mesmerizing Armor",
    "trivial": null,
@@ -39326,12 +39326,12 @@
     },
     {
      "qty": 1,
-     "name": "?x ?",
+     "name": "Mesmeric Vitreous",
      "tool": false
     },
     {
-     "qty": 1,
-     "name": "?x ?",
+     "qty": 3,
+     "name": "Sturdy Spider Silk",
      "tool": false
     }
    ],
