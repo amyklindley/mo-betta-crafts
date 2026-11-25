@@ -1,6 +1,6 @@
 {
  "source": "https://monstersandmemories.miraheze.org (community wiki, CC BY-SA)",
- "fetched": "2026-11-24",
+ "fetched": "2026-11-25",
  "recipes": [
   {
    "id": "Alchemy|Mortar and Pestle Combines (Powders)|Coarse Blue Diamond Powder|Chipped Blue Diamond",
@@ -2384,6 +2384,46 @@
     {
      "qty": 3,
      "name": "Resin",
+     "tool": false
+    }
+   ],
+   "station": "Cauldron",
+   "notes": "",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Alchemy"
+  },
+  {
+   "id": "Alchemy|Trivial 141 – 220+|Elixir of Deadliness|Imbued Flask+Volatile Venom Gland+Stygian Moss Powder+Arcane Powder",
+   "skill": "Alchemy",
+   "section": "Trivial 141 – 220+",
+   "trivial": 220,
+   "name": "Elixir of Deadliness",
+   "makes": 1,
+   "results": [
+    {
+     "qty": 1,
+     "name": "Elixir of Deadliness"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "Imbued Flask",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Volatile Venom Gland",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Stygian Moss Powder",
+     "tool": false
+    },
+    {
+     "qty": 2,
+     "name": "Arcane Powder",
      "tool": false
     }
    ],
@@ -34781,7 +34821,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Leatherworking"
   },
   {
-   "id": "Poison Making|Extracts & Raw Components|Noxious Toxin Extract|A Venom Gland + one of: Wasp Venom Sac+Immature Snake Venom Sac+Spider Venom Sac",
+   "id": "Poison Making|Extracts & Raw Components|Noxious Toxin Extract|One of: Wasp Venom Sac+Immature Snake Venom Sac+Spider Venom Sac",
    "skill": "Poison Making",
    "section": "Extracts & Raw Components",
    "trivial": 25,
@@ -34796,7 +34836,7 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "A Venom Gland + one of: Wasp Venom Sac",
+     "name": "One of: Wasp Venom Sac",
      "tool": false
     },
     {
@@ -34816,7 +34856,7 @@
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Poison_Making"
   },
   {
-   "id": "Poison Making|Extracts & Raw Components|Baneful Toxin Extract|A Venom Gland + Szuurian Viper Venom Sac",
+   "id": "Poison Making|Extracts & Raw Components|Baneful Toxin Extract|One of: Szuurian Viper Venom Sac+Poisonous Spider Venom Sac+Snake Poison Gland",
    "skill": "Poison Making",
    "section": "Extracts & Raw Components",
    "trivial": 40,
@@ -34831,17 +34871,27 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "A Venom Gland + Szuurian Viper Venom Sac",
+     "name": "One of: Szuurian Viper Venom Sac",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Poisonous Spider Venom Sac",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Snake Poison Gland",
      "tool": false
     }
    ],
    "station": "",
-   "notes": "",
+   "notes": "Used in Tier II poisons",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Poison_Making"
   },
   {
-   "id": "Poison Making|Extracts & Raw Components|Virulent Toxin Extract|A Venom Gland + ??",
+   "id": "Poison Making|Extracts & Raw Components|Virulent Toxin Extract|One of: Deadly Spider Venom Sac+Asp Poison Gland",
    "skill": "Poison Making",
    "section": "Extracts & Raw Components",
    "trivial": null,
@@ -34856,12 +34906,42 @@
    "ingredients": [
     {
      "qty": 1,
-     "name": "A Venom Gland + ??",
+     "name": "One of: Deadly Spider Venom Sac",
+     "tool": false
+    },
+    {
+     "qty": 1,
+     "name": "Asp Poison Gland",
      "tool": false
     }
    ],
    "station": "",
-   "notes": "Ingredients unknown.",
+   "notes": "Used in Tier III poisons",
+   "salvage": false,
+   "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Poison_Making"
+  },
+  {
+   "id": "Poison Making|Extracts & Raw Components|Malignant Toxin Extract|One of: Venomous Spider Venom Sac",
+   "skill": "Poison Making",
+   "section": "Extracts & Raw Components",
+   "trivial": null,
+   "name": "Malignant Toxin Extract",
+   "makes": 2,
+   "results": [
+    {
+     "qty": 2,
+     "name": "Malignant Toxin Extract"
+    }
+   ],
+   "ingredients": [
+    {
+     "qty": 1,
+     "name": "One of: Venomous Spider Venom Sac",
+     "tool": false
+    }
+   ],
+   "station": "",
+   "notes": "Used in Tier IV poisons",
    "salvage": false,
    "url": "https://monstersandmemories.miraheze.org/wiki/Skill_Poison_Making"
   },
